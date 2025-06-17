@@ -1,0 +1,6354 @@
+{
+  "users": {
+    "593988484435@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1748653587121,
+      "lastRob": 1748654115437,
+      "lastSpin": 1748735774262,
+      "pet": null,
+      "lastAdopt": 1748919416204,
+      "lastBox": 1749009140425,
+      "cajas": null,
+      "lastExecute": 1750042363964
+    },
+    "593963312646@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1748467028515,
+      "lastRob": 1749864024067,
+      "lastBet": 1750130637375,
+      "lastSpin": 1748996291579,
+      "lastBox": 1750130623051,
+      "cajas": 4,
+      "pet": null,
+      "lastAdopt": 1748914701039,
+      "extraPets": [
+        {
+          "name": "Tera-Lux",
+          "rarity": "Común",
+          "multiplier": "2.96",
+          "attack": "Golpe rápido"
+        },
+        {
+          "name": "Ignis-Astra",
+          "rarity": "Rara",
+          "multiplier": "3.41",
+          "attack": "Latigazo de energía"
+        }
+      ],
+      "lastHatch": 1749176626578,
+      "minas": 3,
+      "lastMine": 1750130566584,
+      "bounty": 10000000,
+      "lastExecute": 1750119626627,
+      "lastRaid": 1750130289801
+    },
+    "5219961079694@s.whatsapp.net": {
+      "points": 3,
+      "warns": 0,
+      "bounty": 5
+    },
+    "81398773866540@lid": {
+      "points": 12,
+      "warns": 0,
+      "lastBet": 1748653402455,
+      "lastSpin": 1748735990480
+    },
+    "5492213178108@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18094446939@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363400749080938@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "113228357103686@lid": {
+      "points": 45,
+      "warns": 0,
+      "lastRob": 1749090249505,
+      "lastBet": 1748926984741,
+      "lastReward": 1748653626930,
+      "lastSpin": 1748657539714,
+      "lastBox": 1749704836498,
+      "cajas": 5,
+      "pet": null,
+      "lastAdopt": 1749010194455,
+      "confirmRelease": false,
+      "lastRelease": 1749089649886,
+      "petRestUntil": 1748967464015,
+      "extraPets": [
+        {
+          "name": "Gusano Saltón",
+          "rarity": "Normal",
+          "multiplier": 1.06,
+          "attack": "Espiral Veloz"
+        },
+        {
+          "name": "Tigre Bebé",
+          "rarity": "Raro",
+          "multiplier": 1.25,
+          "attack": "Zarpazo Salvaje"
+        },
+        {
+          "name": "Conejo Albino",
+          "rarity": "Común",
+          "multiplier": 1.12,
+          "attack": "Salto Lunar"
+        },
+        {
+          "name": "Aegis-Furia",
+          "rarity": "Común",
+          "multiplier": "4.38",
+          "attack": "Mordida ligera"
+        }
+      ],
+      "lastHatch": 1749176004698,
+      "minas": null,
+      "lastMine": 1749782634210
+    },
+    "50584420169@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50247001158@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59892474866@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213332399071@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1749758557625,
+      "lastBet": 1750041978443,
+      "lastSpin": 1749097275893,
+      "lastBox": 1750041984645,
+      "cajas": 61,
+      "lastRob": 1749097110921,
+      "pet": null,
+      "lastAdopt": 1748917903033,
+      "extraPets": [
+        {
+          "name": "Pato Travieso",
+          "rarity": "Normal",
+          "multiplier": 1.07,
+          "attack": "Picotazo Cómico"
+        },
+        {
+          "name": "Pato Travieso",
+          "rarity": "Normal",
+          "multiplier": 1.07,
+          "attack": "Picotazo Cómico"
+        },
+        {
+          "name": "Pegaso Oscuro",
+          "rarity": "Épico",
+          "multiplier": 1.6,
+          "attack": "Embate Celestial"
+        },
+        {
+          "name": "Ignis-Astra",
+          "rarity": "Épica",
+          "multiplier": "4.15",
+          "attack": "Explosión astral"
+        },
+        {
+          "name": "Fenrir-Astra",
+          "rarity": "Común",
+          "multiplier": "2.11",
+          "attack": "Golpe rápido"
+        }
+      ],
+      "lastHatch": 1749176158040,
+      "confirmRelease": false,
+      "lastRelease": 1749094500433,
+      "minas": 10,
+      "lastMine": 1750041957249,
+      "bounty": 9999999999999,
+      "lastExecute": 1749955857275
+    },
+    "50433037576@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363216137525596@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219213024524@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218332311555@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593998373890@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573123247164@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573126322218@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59172492804@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1750029624072,
+      "lastRob": 1750110820613,
+      "lastBet": 1749955693290,
+      "lastSpin": 1749081592208,
+      "lastBox": 1749081701946,
+      "cajas": 19,
+      "pet": null,
+      "lastAdopt": 1748914934705,
+      "extraPets": [
+        {
+          "name": "Tera-Lux",
+          "rarity": "Rara",
+          "multiplier": "1.97",
+          "attack": "Carga eléctrica"
+        },
+        {
+          "name": "Tera-Zero",
+          "rarity": "Rara",
+          "multiplier": "5.80",
+          "attack": "Carga eléctrica"
+        }
+      ],
+      "lastHatch": 1749176578315,
+      "minas": 1,
+      "lastMine": 1749953215750,
+      "lastExecute": 1750130227172,
+      "bounty": 100000000000000000000
+    },
+    "5214831189608@s.whatsapp.net": {
+      "points": 16,
+      "warns": 0,
+      "lastReward": 1748732599158,
+      "lastBet": 1748732619045,
+      "lastBox": 1749166823405,
+      "cajas": 2,
+      "pet": null,
+      "lastAdopt": 1749076871496,
+      "bounty": 1000000000000000000
+    },
+    "5215627223722@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "183906288566410@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363310995617519@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "101460096339977@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217721699644@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214426262338@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218721256152@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "110269174960233@lid": {
+      "points": 141,
+      "warns": 0,
+      "lastReward": 1748484592265,
+      "lastSpin": 1749090150209,
+      "lastBox": 1749090164136,
+      "cajas": 8,
+      "pet": null,
+      "lastAdopt": 1749010796698,
+      "lastRob": 1749172787779,
+      "confirmRelease": false,
+      "lastRelease": 1749010755089,
+      "extraPets": [
+        {
+          "name": "Conejo Albino",
+          "rarity": "Común",
+          "multiplier": 1.12,
+          "attack": "Salto Lunar"
+        },
+        {
+          "name": "Conejo Albino",
+          "rarity": "Común",
+          "multiplier": 1.12,
+          "attack": "Salto Lunar"
+        },
+        {
+          "name": "Fénix Ardiente",
+          "rarity": "Élite",
+          "multiplier": 1.38,
+          "attack": "Llama Renacida"
+        }
+      ],
+      "lastHatch": 1749172496972
+    },
+    "277416517865591@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216653939250@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "235549495402596@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "51981764157@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "119529040568400@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "20392655724613@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "30700745040109@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "61211890716873@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "593991027210@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219651152839@s.whatsapp.net": {
+      "points": 65,
+      "warns": 0,
+      "lastReward": 1749990518331,
+      "lastSpin": 1748997388572,
+      "lastBox": 1750121205546,
+      "cajas": 78,
+      "lastRob": 1750110287017,
+      "lastBet": 1749921660832,
+      "pet": null,
+      "lastAdopt": 1748916437702,
+      "extraPets": [
+        {
+          "name": "Ratón Gris",
+          "rarity": "Normal",
+          "multiplier": 1.05,
+          "attack": "Rasguño Ágil"
+        }
+      ],
+      "lastHatch": 1749160421487,
+      "minas": 2,
+      "lastMine": 1750110029588
+    },
+    "120363417993747224@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "38049266303017@lid": {
+      "points": 40,
+      "warns": 0,
+      "lastBox": 1749009964052,
+      "cajas": 2,
+      "lastSpin": 1748962734937,
+      "pet": null,
+      "lastAdopt": 1748963598624
+    },
+    "593991027299@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1750123625805,
+      "lastRob": 1750130648619,
+      "lastSpin": 1749097665710,
+      "lastBet": 1750123632052,
+      "lastBox": 1750130607819,
+      "cajas": 39,
+      "pet": null,
+      "lastAdopt": 1748921206325,
+      "confirmRelease": false,
+      "lastRelease": 1749138440702,
+      "extraPets": [
+        {
+          "name": "Lobo de Nieve",
+          "rarity": "Élite",
+          "multiplier": 1.35,
+          "attack": "Aullido Congelante"
+        },
+        {
+          "name": "Gusano Saltón",
+          "rarity": "Normal",
+          "multiplier": 1.06,
+          "attack": "Espiral Veloz"
+        },
+        {
+          "name": "Pájaro Sombra",
+          "rarity": "Raro",
+          "multiplier": 1.28,
+          "attack": "Corte de Alas"
+        },
+        {
+          "name": "Tera-Lux",
+          "rarity": "Mítico",
+          "multiplier": "1.25",
+          "attack": "Corte espectral"
+        },
+        {
+          "name": "Aegis-Zero",
+          "rarity": "Cósmico",
+          "multiplier": "4.86",
+          "attack": "Singularidad oscura"
+        }
+      ],
+      "lastHatch": 1749176541621,
+      "minas": 5,
+      "lastMine": 1750123618925,
+      "bounty": 50000,
+      "lastExecute": 1750130337543,
+      "lastRaid": 1750130689988
+    },
+    "197457380139117@lid": {
+      "points": 460,
+      "warns": 0,
+      "lastReward": 1748503307661,
+      "lastRob": 1748926783232,
+      "lastBox": 1749169827950,
+      "cajas": 17,
+      "lastSpin": 1749025371834,
+      "pet": null,
+      "lastAdopt": 1749010978152,
+      "petRestUntil": 1749092613974
+    },
+    "5214443000244@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "6949307429109@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213541015174@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1749055052053,
+      "lastBox": 1749055036214,
+      "cajas": null
+    },
+    "593992596387@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50249810980@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218124188667@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "278400182821085@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "106378286874628@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "23905888641051@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "104814885249059@lid": {
+      "points": 220,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1749088646883,
+      "confirmRelease": false,
+      "lastSpin": 1749090226096,
+      "lastBox": 1749090207038,
+      "cajas": 6,
+      "lastRelease": 1749090959142,
+      "petRestUntil": 1749092638376,
+      "extraPets": [
+        {
+          "name": "Dragóncito Rojo",
+          "rarity": "Raro",
+          "multiplier": 1.3,
+          "attack": "Aliento de Fuego"
+        }
+      ],
+      "lastHatch": 1749090693922
+    },
+    "18653613428903@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "50671676036@s.whatsapp.net": {
+      "points": 9,
+      "warns": 0,
+      "lastReward": 1750119576731,
+      "lastBox": 1750119595035,
+      "cajas": 14,
+      "lastSpin": 1749045596946,
+      "lastBet": 1749096644196,
+      "lastRob": 1750029418709,
+      "extraPets": [],
+      "pet": null,
+      "lastHatch": 1749096941116,
+      "bounty": 7000000000,
+      "minas": null,
+      "lastMine": 1750010348445
+    },
+    "117283259211908@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "154807952273591@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "13563640991753@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5363662400@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1750120353520,
+      "lastBet": 1749917493643,
+      "lastBox": 1750120364504,
+      "cajas": 109,
+      "lastRob": 1750115177840,
+      "lastSpin": 1749070429213,
+      "pet": null,
+      "lastAdopt": 1748998876288,
+      "bounty": 53790821,
+      "minas": 9,
+      "lastMine": 1750010537854,
+      "lastExecute": 1750120474602
+    },
+    "44539247071364@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "198212908527676@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "203804939153659@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "278185115709674@lid": {
+      "points": 4,
+      "warns": 0,
+      "lastReward": 1748502379490
+    },
+    "593963659293@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51934957158@s.whatsapp.net": {
+      "points": 2,
+      "warns": 0,
+      "lastSpin": 1748795983788,
+      "lastBet": 1748658303347
+    },
+    "134930910699604@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "129102656839892@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "34514793398296@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "78658098229288@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "263436533506207@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "241248682139781@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "107709223456915@lid": {
+      "points": 398,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748922153859,
+      "lastSpin": 1749090135094,
+      "lastRob": 1749090288827,
+      "petRestUntil": 1748928525036,
+      "lastBox": 1749172311043,
+      "cajas": 11,
+      "extraPets": [
+        {
+          "name": "Pato Travieso",
+          "rarity": "Normal",
+          "multiplier": 1.07,
+          "attack": "Picotazo Cómico"
+        },
+        {
+          "name": "Pato Travieso",
+          "rarity": "Normal",
+          "multiplier": 1.07,
+          "attack": "Picotazo Cómico"
+        }
+      ],
+      "lastHatch": 1749172516811
+    },
+    "51972978883@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50494808837@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573204261946@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214441736561@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573135111870@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214422025161@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493512192970@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212727011627@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218992281347@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593958941656@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastBet": 1748979242980,
+      "pet": null,
+      "lastAdopt": 1748916510435,
+      "lastSpin": 1748979219782,
+      "lastBox": 1748957864621,
+      "cajas": null
+    },
+    "5219631460820@s.whatsapp.net": {
+      "points": 106,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748919399568
+    },
+    "5493704306850@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51919580068@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "37779086000221@lid": {
+      "points": 18,
+      "warns": 0,
+      "lastReward": 1748540664986,
+      "pet": null,
+      "lastAdopt": 1749088561099,
+      "lastBox": 1749088958963,
+      "cajas": null
+    },
+    "5214531166030@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215560905262@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1749169463351,
+      "lastBox": 1749169472464,
+      "cajas": 42,
+      "lastSpin": 1749097859341,
+      "lastBet": 1749169490681,
+      "pet": null,
+      "lastAdopt": 1748917919286,
+      "lastRob": 1749097905237,
+      "extraPets": [],
+      "lastHatch": 1749097524710,
+      "confirmRelease": false,
+      "lastRelease": 1749096374794
+    },
+    "593983448585@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51983421063@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "273993277927568@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212213809242@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218113843480@s.whatsapp.net": {
+      "points": 10,
+      "warns": 0
+    },
+    "229076459626702@lid": {
+      "points": 84,
+      "warns": 0,
+      "extraPets": [],
+      "pet": null,
+      "lastHatch": 1749090658904,
+      "lastBox": 1749090189996,
+      "cajas": null,
+      "lastRob": 1749090217977,
+      "lastSpin": 1749090458655
+    },
+    "129983141957812@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "50488907635@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218999846994@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "165438013096165@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213324145398@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573105770138@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218135847698@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59160123608@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59169916078@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213113402675@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573234811254@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573115867629@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215660419878@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215567060731@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573222839020@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218125809793@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215544529809@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "189584335986716@lid": {
+      "points": 1,
+      "warns": 0
+    },
+    "230356812841181@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "59163566918@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219721013707@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593968344466@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218711031025@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573016588869@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573189940180@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219624141827@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217122726235@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493525432920@s.whatsapp.net": {
+      "points": 5,
+      "warns": 0,
+      "lastSpin": 1748735851106
+    },
+    "51968063786@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215665959610@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50245172513@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212371116296@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50488524358@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "34012450042056@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363400619681053@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "259841562026141@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "158007904223470@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "36361511948300@lid": {
+      "points": 30,
+      "warns": 0,
+      "lastRob": 1748927060946,
+      "lastBox": 1748927122814,
+      "cajas": null
+    },
+    "182935558877207@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215561389047@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212225196119@s.whatsapp.net": {
+      "points": 0,
+      "warns": 1,
+      "lastReward": 1749964164005,
+      "lastRob": 1750009396950,
+      "lastBet": 1750115997461,
+      "lastSpin": 1749085559331,
+      "lastBox": 1750115974597,
+      "cajas": 187,
+      "pet": null,
+      "lastAdopt": 1748917737634,
+      "confirmRelease": false,
+      "lastRelease": 1749094439226,
+      "extraPets": [
+        {
+          "name": "Gato Casero",
+          "rarity": "Común",
+          "multiplier": 1.1,
+          "attack": "Zarpazo"
+        },
+        {
+          "name": "Aqua-Dominus",
+          "rarity": "Común",
+          "multiplier": "5.74",
+          "attack": "Mordida ligera"
+        },
+        {
+          "name": "Luna-Furia",
+          "rarity": "Primordial",
+          "multiplier": "4.44",
+          "attack": "Eco eterno"
+        },
+        {
+          "name": "Aqua-Zero",
+          "rarity": "Rara",
+          "multiplier": "3.53",
+          "attack": "Latigazo de energía"
+        }
+      ],
+      "lastHatch": 1749176502645,
+      "minas": 4,
+      "lastMine": 1750115963893,
+      "bounty": 53790822,
+      "lastExecute": 1750116033949
+    },
+    "5358750188@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastReward": 1749954738451,
+      "lastRob": 1750115784978,
+      "lastSpin": 1749093227275,
+      "lastBet": 1750110070109,
+      "lastBox": 1750110669400,
+      "cajas": 92,
+      "pet": null,
+      "lastAdopt": 1748916478255,
+      "extraPets": [
+        {
+          "name": "Dragóncito Rojo",
+          "rarity": "Raro",
+          "multiplier": 1.3,
+          "attack": "Aliento de Fuego"
+        }
+      ],
+      "lastHatch": 1749138551863,
+      "confirmRelease": false,
+      "lastRelease": 1749138532561,
+      "minas": 10,
+      "lastMine": 1750111130529,
+      "bounty": 0,
+      "lastExecute": 1750127101416
+    },
+    "51928849685@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213333995881@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219934693299@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50577372233@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573148039471@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213335037759@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5359098589@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "39535375335485@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "59899917864@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492954686637@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214777350625@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491140500799@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493364073321@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "15202498837@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18299827085@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "7164492034172@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "28905247354892@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "9204433723484@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "192517781880848@lid": {
+      "points": 607,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748966551681,
+      "lastBox": 1749175849181,
+      "cajas": 35,
+      "lastSpin": 1749088049474,
+      "confirmRelease": false,
+      "lastRelease": 1748965085468,
+      "extraPets": [
+        {
+          "name": "Perrito Juguetón",
+          "rarity": "Común",
+          "multiplier": 1.13,
+          "attack": "Mordida Feliz"
+        },
+        {
+          "name": "Pato Travieso",
+          "rarity": "Normal",
+          "multiplier": 1.07,
+          "attack": "Picotazo Cómico"
+        }
+      ],
+      "lastHatch": 1749172522210,
+      "lastRob": 1749172805954
+    },
+    "573053157985@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "43937834229867@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "50244070682@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492645841265@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493834402920@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215512356850@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214931903863@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50230067074@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "13473793811@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212241159747@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51945237408@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2347055916706@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573502601694@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215659026929@s.whatsapp.net": {
+      "points": 13,
+      "warns": 0,
+      "lastRob": 1749744976227
+    },
+    "5213141391405@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593988102358@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "99712027877460@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "49619891437671@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "573228622673@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218717097300@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213511843889@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214861219395@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593963403113@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50672170123@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213112430503@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50362039706@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584125330117@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50585484580@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218991251658@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50689817014@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363294192417505@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "51984397207@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215656692388@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593995497036@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573025320076@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51954523928@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50246207676@s.whatsapp.net": {
+      "points": 5,
+      "warns": 0,
+      "lastRob": 1749171719539,
+      "lastSpin": 1749055822629,
+      "lastBet": 1749763940798,
+      "lastBox": 1749946142048,
+      "cajas": 7,
+      "pet": null,
+      "lastAdopt": 1748970833785,
+      "lastReward": 1748972545909,
+      "extraPets": [],
+      "lastHatch": 1749172082536,
+      "minas": null,
+      "lastMine": 1749926924825,
+      "bounty": 8000000000
+    },
+    "5218138001182@s.whatsapp.net": {
+      "points": 1,
+      "warns": 0,
+      "lastReward": 1748573111430
+    },
+    "5213327642996@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492216010276@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50495692332@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51952123941@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56923852402@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "48327441813617@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217351903571@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "15625745338369@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491131855270@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59169913296@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363400357677929@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "87574920056909@lid": {
+      "points": 10,
+      "warns": 0,
+      "lastRob": 1748960057107,
+      "lastReward": 1748957225865,
+      "lastSpin": 1749097760903,
+      "lastBet": 1748959143544,
+      "lastBox": 1749097753503,
+      "cajas": 11,
+      "pet": null,
+      "lastAdopt": 1748960015087,
+      "extraPets": [],
+      "lastHatch": 1749097732937
+    },
+    "215384053526703@lid": {
+      "points": 7,
+      "warns": 0,
+      "lastSpin": 1748745824125,
+      "lastReward": 1748744583428
+    },
+    "155572456390867@lid": {
+      "points": 110,
+      "warns": 0,
+      "lastRob": 1748724704750,
+      "lastSpin": 1748843706031,
+      "lastBet": 1748843696731,
+      "lastBox": 1748958055509,
+      "cajas": 2
+    },
+    "593989489311@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215541928002@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51906659884@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5351775088@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51976203721@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18325962089@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "273804416819347@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "51917402301@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214776687297@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "status@broadcast": {
+      "points": 0,
+      "warns": 0
+    },
+    "50235902533@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50489056941@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215537739104@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59892436049@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5354971788@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51970374302@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56932405826@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215521344360@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51927135087@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216567698269@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50255838307@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2347041539867@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51930041530@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50663059144@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218110513315@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "32551758512244@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "16184024043@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51958349589@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51976344030@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51937449732@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "19702962878@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51949680899@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584247156747@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51902127055@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215525284048@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216692381233@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584247016402@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59171327723@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595975383288@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50493653804@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217445032749@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51928325213@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2242325274738@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216144600316@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "36236706205870@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "59176487602@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2348023969010@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217226808936@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215635235281@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493873011678@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2349128383170@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "554599504843@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213222152286@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212202149218@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213316006360@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593998902157@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215629109817@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215649549430@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492974436482@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51931779014@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219828220784@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2349077166340@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50374978206@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216242170747@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2349070103936@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215553348179@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219624609256@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363361198628723@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212382366138@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216623965709@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "85368716523@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50584448669@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18494085592@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213312435661@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573107384644@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51922162138@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "14806779735@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218681307668@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584124355386@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219633301464@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51901627390@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493491620145@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59173178963@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219331352801@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51912471325@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216441008918@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218110104432@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217228359142@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51927920443@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214661268964@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573223699759@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493447454844@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492966527131@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216648553456@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492616638349@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51907214824@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493515178007@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491138499948@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573127939712@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51938836142@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492944679706@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217223569336@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573187004175@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216611257658@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217791046208@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214445060734@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214531589796@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217206479637@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492901558963@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216692281976@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219844271698@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218119955329@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215569108850@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56946607106@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56979758575@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216181699789@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748919708344
+    },
+    "56949351547@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50764591152@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573016176685@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18093060835@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "37955095802083@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219851071503@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216674712861@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219617603232@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584123889304@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56933266412@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595994515556@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56928829551@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217481070650@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214871443370@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214464251990@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50360043210@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573147345391@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216863083516@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573137782493@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50577360682@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218126878798@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216444601114@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214625102941@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573242081871@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50256309961@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51933449803@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219515878928@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593963297617@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50257392980@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573045379327@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573045736005@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216711115418@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217774537224@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50231722492@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50557572413@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214436947504@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51977163241@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219632299377@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215548403122@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492634532260@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593985568237@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51910207327@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59895492790@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573205312776@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51986637412@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51980441268@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51931180398@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51946063356@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "13138082859@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51942286292@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573143209190@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593939861795@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59175473839@s.whatsapp.net": {
+      "points": 39,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748996400264,
+      "lastBox": 1749166933845,
+      "cajas": 17,
+      "lastSpin": 1749089560617,
+      "lastBet": 1749158148331
+    },
+    "51933276278@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56940765008@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59168410927@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573150961376@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56932758774@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56954462299@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50672976414@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216624280647@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "34603163531@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218714162315@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214981317429@s.whatsapp.net": {
+      "points": 15,
+      "warns": 2,
+      "lastBox": 1749070227559,
+      "cajas": null
+    },
+    "5216633809526@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "13464467328@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584122620530@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584121685154@s.whatsapp.net": {
+      "points": 5,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1749005822912,
+      "lastBox": 1749006542198,
+      "cajas": null
+    },
+    "5215526696150@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213141624665@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584125169067@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214281695316@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51971245512@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595992638728@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491155870845@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "lastBox": 1748985289544,
+      "cajas": 7,
+      "lastSpin": 1748989387050,
+      "lastBet": 1748989455810,
+      "pet": null,
+      "lastAdopt": 1748970840493,
+      "lastRob": 1748989472083,
+      "lastReward": 1748971190329
+    },
+    "573232007945@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214422832214@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573105719523@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51918521157@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219831542236@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50495550565@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215660117211@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584249212083@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51932521566@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218119846728@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50375865349@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50557233371@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50252361362@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "16159932306@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59162469470@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50557153595@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573202120041@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214494339774@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215642187399@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217297826693@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51989336047@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50769243297@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215522987580@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5363126591@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51930526514@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218122902144@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59177258578@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215578305536@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215521127643@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219988381137@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215659922067@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51935727932@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573003607140@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493754459055@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50241904457@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493875415416@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214432527776@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50259058834@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59178882307@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218261155746@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51978120141@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5511920572962@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51967734013@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51946603968@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51901957134@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59164036635@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50244878291@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218145384078@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51973870131@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593967474422@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51932325980@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216181661825@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50256198787@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218124043136@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217227568792@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593987875579@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59178513328@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50368659904@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215565555357@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50585798181@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51974768520@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59169967065@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595982560471@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51971937036@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573214357673@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50370953486@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216242412399@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51970251525@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215511878049@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214462274189@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584246422513@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217561222296@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59163284769@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218681614864@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219221925559@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51961664544@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51957294277@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216679647166@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51983015396@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214251063757@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51975264888@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595994694801@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215513199463@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50370862436@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217831406562@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584124451748@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59178488712@s.whatsapp.net": {
+      "points": 27,
+      "warns": 0,
+      "pet": null,
+      "lastAdopt": 1748973831451,
+      "lastBox": 1748974463610,
+      "cajas": null,
+      "lastSpin": 1748974529725
+    },
+    "5218441765043@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219932463906@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219618650885@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51951257373@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50249766794@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218341326085@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216751119228@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584126093329@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213471065107@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216624496083@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217226764690@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59163583251@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50589958466@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593969681779@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51928369376@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573045229934@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584241425547@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573105043750@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214615284039@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "19082673331@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584246326096@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50255627631@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214491879303@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217715463225@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "19733931847@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595976592438@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215512163026@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5353373235@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51973558276@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51971411483@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573232330133@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219617113737@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213328241176@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216624234379@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212213690577@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573233233066@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213231302053@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51959143907@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493436211305@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215588010049@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213342064766@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584163396838@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593990189604@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59167472692@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573021002108@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51982639246@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214794144355@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214611826390@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212721793543@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5355287299@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584147858033@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219602442295@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593995140617@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216251508533@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51992863768@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214792239234@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216961045503@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51994907362@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50241910327@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51913310322@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "226972445733026@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213346475476@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216391079229@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216871829663@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213224743401@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217775880415@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216568510082@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213344042661@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491176426791@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213312085728@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217299292507@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593987462263@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216644872914@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217773387201@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50239887483@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219513163763@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51916435379@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216151131567@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573023596286@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218688405676@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "15592101538@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492984203447@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217207391248@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584124484479@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218126802904@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573236487453@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573143730724@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50232941195@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216861668816@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50363088685@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "34642796811@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219671304823@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59892218398@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492233403803@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219321102329@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492657280594@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51973451888@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50689748342@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573114495927@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "639469541267@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5363287596@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18093592412@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51913105066@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492645836095@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493804353730@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "14383664720@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51919630299@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215539059556@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218781190043@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212441576315@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217341357897@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50258354054@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51927477824@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51928157674@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573138005285@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219613023604@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491133705868@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50235965616@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212351140375@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50258128109@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215632387972@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493883298157@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218131334339@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "13472513339@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51970897283@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51955794827@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573224251564@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214795071285@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50581011934@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573216744615@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212225280118@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219531229848@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51917896558@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573223756053@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "14376554327@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215582591643@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51929301582@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "@104814885249059": {
+      "points": 0,
+      "pet": null,
+      "lastHatch": 0,
+      "extraPets": []
+    },
+    "573001208672@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59174920015@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573127223304@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219995769163@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573174486085@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "120363400363837088@g.us": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215527505892@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214111542752@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218621113756@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5356212453@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50237371197@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491167225313@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573144840686@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217291138323@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214442393224@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5356902686@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "19364054772@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584262054107@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "639307503129@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218126847371@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573225388485@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214401323495@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "2348131024726@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593959715759@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216564993898@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51921839805@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50582668411@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215660828520@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584248569085@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573019488803@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219616279624@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219611306591@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218113779534@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216562775622@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5355328418@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "239345692844272@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493734445647@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584122366680@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50255080025@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573118861647@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584260858982@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214781025297@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218334523750@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215652637135@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217122351031@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573208642466@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51924175813@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56926450599@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219619391982@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56958138244@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215611215135@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50257543923@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493735603651@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215578694977@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573165103632@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573013985917@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218461055372@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50253841276@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "@107709223456915": {
+      "points": 0,
+      "pet": null,
+      "lastHatch": 0,
+      "extraPets": []
+    },
+    "573016687880@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491126633881@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51952226442@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51963364641@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "17376777019@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50249805659@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "233654945116165@lid": {
+      "points": 15,
+      "warns": 0,
+      "lastBox": 1749704933249,
+      "cajas": null
+    },
+    "5219969633126@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216131295912@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573024106745@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212464805974@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492644451989@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573024060286@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51913349300@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573247497634@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573213176988@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493704022575@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217841468907@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51920669794@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584161522682@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212821071000@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595984059768@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595984953942@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "18298950266@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218139104370@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213317715414@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50760991589@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218714152607@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217223671297@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217751296752@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218187787884@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51974517204@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "12403885694@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593990871211@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51968779414@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219844378151@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56966458042@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51939658037@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584144203248@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573024496421@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212285300135@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212831243765@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51942698197@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218123845583@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213345769104@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51917198031@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217225242547@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573224513813@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50241045200@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217261639155@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593995012420@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215574523688@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215587983723@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215574661963@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "559282121601@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51931776012@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218331563329@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51961080537@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51932346376@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50586629789@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217751211689@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50494766827@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56929145088@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573019346508@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217296055533@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215574193541@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212711394611@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215519041110@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215554081896@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51928704037@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51952020197@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573113670625@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216676804542@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50253370070@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218331096884@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217711612720@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213348618049@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219541279409@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217711423598@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219171072405@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218313031210@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215660539127@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56920298985@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573126977148@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51973904297@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59160318311@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50364467600@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51914269428@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212311125422@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215548526417@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51979447422@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219994126273@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216251030667@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213348544728@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573133010813@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573024664528@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219341111603@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59169604061@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51980140923@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214434619667@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51948315496@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216182651045@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215631055629@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573224306307@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51965228916@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218711605357@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573242137662@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51906566057@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584129352790@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584122652328@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212321543682@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593994055975@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218135553242@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217721507090@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217121545747@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51961979143@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216672364638@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214772800966@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214781009187@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214523048078@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219934352470@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215548010203@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51900137759@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595986727183@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216871244659@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214439146838@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5491171087608@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573506484701@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573106279171@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218116955909@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56964058874@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215655035838@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51923767110@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215577597624@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216251047638@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573133267404@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216674874931@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5214436822077@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51972239116@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573122296578@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51900765421@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573045595142@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51902162868@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217731863234@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595971113328@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217712664815@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216867389048@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593969488840@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212203789839@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218731001153@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219992649802@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216623654832@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "bounty": 9999999
+    },
+    "51920878826@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219981918627@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51917599797@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216621348432@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50494649580@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59162492977@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51907683476@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212721537221@s.whatsapp.net": {
+      "points": 27,
+      "warns": 0,
+      "minas": 15,
+      "lastMine": 1750011342301,
+      "lastBox": 1750011318320,
+      "cajas": 22,
+      "lastRob": 1750009689125,
+      "bounty": 0
+    },
+    "51916540927@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215576451983@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51989405077@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573239957168@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212761270324@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51927395617@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5355975485@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51980816457@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212412367561@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212299010982@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216647458277@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51942351784@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213342858311@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219661139254@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5493813891860@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50585086094@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5359569271@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50239807709@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59173257172@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216681366502@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51925827014@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593998275507@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0,
+      "bounty": 1
+    },
+    "5217822195371@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56978289066@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216567751063@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217778333761@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217721588958@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51917615244@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51932093278@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51957754602@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51967383864@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573018139750@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584160855634@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215654168579@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "595961386490@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213346606049@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217733504465@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "76914693767348@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "573145097991@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "559584250791@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216624134508@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219541009307@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219517996826@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215578344200@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212261694219@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50238404509@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5492945644424@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59162059961@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219331235383@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50585696732@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573126095061@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593979492325@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217555583789@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59177556188@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218145989743@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50251115739@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215530219731@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "223055251009680@lid": {
+      "points": 0,
+      "warns": 0
+    },
+    "56978585309@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "553799082635@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573185789766@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219845919473@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212322493064@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593989713432@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573208073974@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573135042475@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "56940624808@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "16508800847@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215571905477@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573127563446@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593998141611@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212229245087@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50587348596@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51904473862@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573205308623@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218333257809@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51956729918@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51919578757@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573234892093@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573224246211@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "584245967637@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573019589631@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573132818712@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59167357763@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "593998266833@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573102120567@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212941691184@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219601768253@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50498601641@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219515708087@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573215223953@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216699126891@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51962530041@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51971486531@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216862783989@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216613489407@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573213411454@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219171262317@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "59173898452@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "558598465280@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216949512679@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "51953817518@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5213131504065@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218120360089@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216568347711@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573244976997@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "573004588982@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215521066353@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5219992195546@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5217561275083@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50231349042@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215610372983@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5215651779600@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218332582830@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5218333943707@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5216671548329@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "5212201425562@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    },
+    "50246220787@s.whatsapp.net": {
+      "points": 0,
+      "warns": 0
+    }
+  },
+  "groups": {
+    "120363361198628723@g.us": {
+      "antilinks": false,
+      "nsfw": false,
+      "members": {
+        "5219961079694@s.whatsapp.net": true,
+        "5219969633126@s.whatsapp.net": true,
+        "593963312646@s.whatsapp.net": true,
+        "593988484435@s.whatsapp.net": true
+      }
+    },
+    "120363400749080938@g.us": {
+      "antilinks": true,
+      "nsfw": false,
+      "members": {
+        "81398773866540@lid": true,
+        "113228357103686@lid": true
+      }
+    },
+    "120363310995617519@g.us": {
+      "antilinks": true,
+      "nsfw": false,
+      "members": {
+        "50495692332@s.whatsapp.net": true,
+        "51907734086@s.whatsapp.net": true,
+        "5214498758189@s.whatsapp.net": true,
+        "50256198787@s.whatsapp.net": true,
+        "50376457504@s.whatsapp.net": true,
+        "50581011934@s.whatsapp.net": true,
+        "584244497077@s.whatsapp.net": true,
+        "5215531354970@s.whatsapp.net": true,
+        "50584420169@s.whatsapp.net": true,
+        "5215530495249@s.whatsapp.net": true,
+        "51942223431@s.whatsapp.net": true,
+        "5216181661825@s.whatsapp.net": true,
+        "5218721256152@s.whatsapp.net": true,
+        "5351530008@s.whatsapp.net": true,
+        "51989204408@s.whatsapp.net": true,
+        "573123247164@s.whatsapp.net": true,
+        "593963312646@s.whatsapp.net": true,
+        "51946603968@s.whatsapp.net": true,
+        "593998654352@s.whatsapp.net": true,
+        "573113670625@s.whatsapp.net": true,
+        "593958721238@s.whatsapp.net": true,
+        "56932274859@s.whatsapp.net": true,
+        "5214401745326@s.whatsapp.net": true,
+        "573243594961@s.whatsapp.net": true,
+        "50588321881@s.whatsapp.net": true,
+        "5492213178108@s.whatsapp.net": true,
+        "56989929577@s.whatsapp.net": true,
+        "5219631460820@s.whatsapp.net": true,
+        "5356212453@s.whatsapp.net": true,
+        "5218332311555@s.whatsapp.net": true,
+        "85368716523@s.whatsapp.net": true,
+        "56956868607@s.whatsapp.net": true,
+        "18094446939@s.whatsapp.net": true,
+        "51935727932@s.whatsapp.net": true,
+        "5214426262338@s.whatsapp.net": true,
+        "593998373890@s.whatsapp.net": true,
+        "593998902157@s.whatsapp.net": true,
+        "5219213024524@s.whatsapp.net": true,
+        "59164036635@s.whatsapp.net": true,
+        "5218441219559@s.whatsapp.net": true,
+        "5215548403122@s.whatsapp.net": true,
+        "59176487602@s.whatsapp.net": true,
+        "5215655194685@s.whatsapp.net": true,
+        "5216653939250@s.whatsapp.net": true,
+        "573044368342@s.whatsapp.net": true,
+        "18325962089@s.whatsapp.net": true,
+        "50585484580@s.whatsapp.net": true,
+        "51904269529@s.whatsapp.net": true,
+        "50244070682@s.whatsapp.net": true,
+        "51906305113@s.whatsapp.net": true,
+        "573126322218@s.whatsapp.net": true,
+        "50255537679@s.whatsapp.net": true,
+        "5215567060731@s.whatsapp.net": true,
+        "593967867813@s.whatsapp.net": true,
+        "593998927609@s.whatsapp.net": true,
+        "5213311265689@s.whatsapp.net": true,
+        "5219513124920@s.whatsapp.net": true,
+        "17148052907@s.whatsapp.net": true,
+        "573104377366@s.whatsapp.net": true,
+        "51928849685@s.whatsapp.net": true,
+        "5213312435661@s.whatsapp.net": true,
+        "51901389275@s.whatsapp.net": true,
+        "5214776687297@s.whatsapp.net": true,
+        "5219851071503@s.whatsapp.net": true,
+        "5213324145398@s.whatsapp.net": true,
+        "50247001158@s.whatsapp.net": true,
+        "5214443000244@s.whatsapp.net": true,
+        "5358472568@s.whatsapp.net": true,
+        "573209438789@s.whatsapp.net": true,
+        "51978722508@s.whatsapp.net": true,
+        "51922162138@s.whatsapp.net": true,
+        "593988484435@s.whatsapp.net": true,
+        "573234800612@s.whatsapp.net": true,
+        "56948679909@s.whatsapp.net": true,
+        "5219961079694@s.whatsapp.net": true,
+        "51927135087@s.whatsapp.net": true,
+        "5216679647166@s.whatsapp.net": true,
+        "50670528321@s.whatsapp.net": true,
+        "5217721699644@s.whatsapp.net": true,
+        "5214422025161@s.whatsapp.net": true,
+        "51992606579@s.whatsapp.net": true,
+        "51970871321@s.whatsapp.net": true,
+        "51972978883@s.whatsapp.net": true,
+        "595982376311@s.whatsapp.net": true,
+        "59892474866@s.whatsapp.net": true,
+        "59898306977@s.whatsapp.net": true,
+        "573204261946@s.whatsapp.net": true,
+        "573107384644@s.whatsapp.net": true,
+        "51981764157@s.whatsapp.net": true,
+        "593992596387@s.whatsapp.net": true,
+        "50242270193@s.whatsapp.net": true,
+        "5212727011627@s.whatsapp.net": true,
+        "573001151202@s.whatsapp.net": true,
+        "5493704306850@s.whatsapp.net": true,
+        "573135111870@s.whatsapp.net": true,
+        "5218187067576@s.whatsapp.net": true,
+        "5214441736561@s.whatsapp.net": true,
+        "5493757320355@s.whatsapp.net": true,
+        "5493877540195@s.whatsapp.net": true,
+        "51935417056@s.whatsapp.net": true,
+        "18097129919@s.whatsapp.net": true,
+        "5493512192970@s.whatsapp.net": true,
+        "50494808837@s.whatsapp.net": true,
+        "5218992281347@s.whatsapp.net": true,
+        "5493777681099@s.whatsapp.net": true,
+        "51925743595@s.whatsapp.net": true,
+        "5214531166030@s.whatsapp.net": true,
+        "5214576880689@s.whatsapp.net": true,
+        "51953091302@s.whatsapp.net": true,
+        "595983847122@s.whatsapp.net": true,
+        "5217353254758@s.whatsapp.net": true,
+        "50581565380@s.whatsapp.net": true,
+        "5214776701690@s.whatsapp.net": true,
+        "573007872799@s.whatsapp.net": true,
+        "5215644541859@s.whatsapp.net": true,
+        "51919580068@s.whatsapp.net": true,
+        "5215581528479@s.whatsapp.net": true,
+        "51983421063@s.whatsapp.net": true,
+        "5212831244277@s.whatsapp.net": true,
+        "17692317894@s.whatsapp.net": true,
+        "5491166310949@s.whatsapp.net": true,
+        "50237465900@s.whatsapp.net": true,
+        "5213511843889@s.whatsapp.net": true,
+        "5212271034425@s.whatsapp.net": true,
+        "5214272273713@s.whatsapp.net": true,
+        "5215532637184@s.whatsapp.net": true,
+        "5217297746739@s.whatsapp.net": true,
+        "56986703422@s.whatsapp.net": true,
+        "5213141391405@s.whatsapp.net": true,
+        "51955747013@s.whatsapp.net": true,
+        "5216641745355@s.whatsapp.net": true,
+        "5215520704334@s.whatsapp.net": true,
+        "5215548010203@s.whatsapp.net": true,
+        "5492644431980@s.whatsapp.net": true,
+        "50582210978@s.whatsapp.net": true,
+        "51945237408@s.whatsapp.net": true,
+        "5217294464116@s.whatsapp.net": true,
+        "5216568495636@s.whatsapp.net": true,
+        "5219221925559@s.whatsapp.net": true,
+        "595983903377@s.whatsapp.net": true,
+        "50493310169@s.whatsapp.net": true,
+        "5213112430503@s.whatsapp.net": true,
+        "573023142363@s.whatsapp.net": true,
+        "51979482767@s.whatsapp.net": true,
+        "5491176439025@s.whatsapp.net": true,
+        "5215610896356@s.whatsapp.net": true,
+        "50362039706@s.whatsapp.net": true,
+        "5219996430161@s.whatsapp.net": true,
+        "50672170123@s.whatsapp.net": true,
+        "584125330117@s.whatsapp.net": true,
+        "5214432527776@s.whatsapp.net": true,
+        "593963403113@s.whatsapp.net": true,
+        "51936158534@s.whatsapp.net": true,
+        "51916898817@s.whatsapp.net": true,
+        "5215619073595@s.whatsapp.net": true,
+        "5214498107985@s.whatsapp.net": true,
+        "51952123941@s.whatsapp.net": true,
+        "584161000943@s.whatsapp.net": true,
+        "5213327642996@s.whatsapp.net": true,
+        "5215638460463@s.whatsapp.net": true,
+        "5217461303691@s.whatsapp.net": true,
+        "32466900372@s.whatsapp.net": true,
+        "5215578867409@s.whatsapp.net": true,
+        "5219322598530@s.whatsapp.net": true,
+        "5219987615994@s.whatsapp.net": true,
+        "5218116838156@s.whatsapp.net": true,
+        "5493853044326@s.whatsapp.net": true,
+        "51917402301@s.whatsapp.net": true,
+        "5354971788@s.whatsapp.net": true,
+        "5215581350143@s.whatsapp.net": true,
+        "573165677054@s.whatsapp.net": true,
+        "13802157983@s.whatsapp.net": true,
+        "56937825928@s.whatsapp.net": true,
+        "595983351704@s.whatsapp.net": true,
+        "59163284769@s.whatsapp.net": true,
+        "5214171195998@s.whatsapp.net": true,
+        "51970374302@s.whatsapp.net": true,
+        "5216567698269@s.whatsapp.net": true,
+        "59163763320@s.whatsapp.net": true,
+        "5493878568053@s.whatsapp.net": true,
+        "5215521344360@s.whatsapp.net": true,
+        "59164682417@s.whatsapp.net": true,
+        "573046276093@s.whatsapp.net": true,
+        "56932405826@s.whatsapp.net": true,
+        "18093662334@s.whatsapp.net": true,
+        "50238648320@s.whatsapp.net": true,
+        "5212214420785@s.whatsapp.net": true,
+        "5216623965709@s.whatsapp.net": true,
+        "51921305154@s.whatsapp.net": true,
+        "5216241755600@s.whatsapp.net": true,
+        "573168319813@s.whatsapp.net": true,
+        "59892436049@s.whatsapp.net": true,
+        "5212226338088@s.whatsapp.net": true,
+        "5214611265994@s.whatsapp.net": true,
+        "584247156747@s.whatsapp.net": true,
+        "5216563884853@s.whatsapp.net": true,
+        "34600374080@s.whatsapp.net": true,
+        "5216692381233@s.whatsapp.net": true,
+        "5215525284048@s.whatsapp.net": true,
+        "593995328880@s.whatsapp.net": true,
+        "5213222152286@s.whatsapp.net": true,
+        "59167922961@s.whatsapp.net": true,
+        "5215638093502@s.whatsapp.net": true,
+        "19702962878@s.whatsapp.net": true,
+        "584247016402@s.whatsapp.net": true,
+        "50672303085@s.whatsapp.net": true,
+        "5216261192870@s.whatsapp.net": true,
+        "5493873011678@s.whatsapp.net": true,
+        "5215539751105@s.whatsapp.net": true,
+        "5511917439557@s.whatsapp.net": true,
+        "50233158709@s.whatsapp.net": true,
+        "595975383288@s.whatsapp.net": true,
+        "51937449732@s.whatsapp.net": true,
+        "5358176015@s.whatsapp.net": true,
+        "51978120141@s.whatsapp.net": true,
+        "5218119901619@s.whatsapp.net": true,
+        "51902127055@s.whatsapp.net": true,
+        "5493853031641@s.whatsapp.net": true,
+        "51936651394@s.whatsapp.net": true,
+        "59171327723@s.whatsapp.net": true,
+        "51949680899@s.whatsapp.net": true,
+        "584122241182@s.whatsapp.net": true,
+        "5215649549430@s.whatsapp.net": true,
+        "50557181216@s.whatsapp.net": true,
+        "5212202149218@s.whatsapp.net": true,
+        "5214111542752@s.whatsapp.net": true,
+        "14806779735@s.whatsapp.net": true,
+        "5219841808196@s.whatsapp.net": true,
+        "5216241790234@s.whatsapp.net": true,
+        "50252683483@s.whatsapp.net": true,
+        "51901627390@s.whatsapp.net": true,
+        "573214357673@s.whatsapp.net": true,
+        "584124355386@s.whatsapp.net": true,
+        "5493491620145@s.whatsapp.net": true,
+        "5218681307668@s.whatsapp.net": true,
+        "5214427201394@s.whatsapp.net": true,
+        "584267585928@s.whatsapp.net": true,
+        "593964266361@s.whatsapp.net": true,
+        "5219633301464@s.whatsapp.net": true,
+        "573170124898@s.whatsapp.net": true,
+        "19727200064@s.whatsapp.net": true,
+        "22547467488@s.whatsapp.net": true,
+        "573202586828@s.whatsapp.net": true,
+        "5493834084527@s.whatsapp.net": true,
+        "573136593949@s.whatsapp.net": true,
+        "51912471325@s.whatsapp.net": true,
+        "5219331352801@s.whatsapp.net": true,
+        "5216441008918@s.whatsapp.net": true,
+        "5356718318@s.whatsapp.net": true,
+        "584141722346@s.whatsapp.net": true,
+        "51902971549@s.whatsapp.net": true,
+        "212773123966@s.whatsapp.net": true,
+        "51927920443@s.whatsapp.net": true,
+        "5492901300339@s.whatsapp.net": true,
+        "5218110104432@s.whatsapp.net": true,
+        "5217228359142@s.whatsapp.net": true,
+        "573223699759@s.whatsapp.net": true,
+        "18183102200@s.whatsapp.net": true,
+        "5214661268964@s.whatsapp.net": true,
+        "51900017413@s.whatsapp.net": true,
+        "5217223569336@s.whatsapp.net": true,
+        "50663489418@s.whatsapp.net": true,
+        "51938836142@s.whatsapp.net": true,
+        "50764591152@s.whatsapp.net": true,
+        "5218132187672@s.whatsapp.net": true,
+        "584127183692@s.whatsapp.net": true,
+        "5493812388041@s.whatsapp.net": true,
+        "5219141374670@s.whatsapp.net": true,
+        "51902149831@s.whatsapp.net": true,
+        "50373712613@s.whatsapp.net": true,
+        "573127939712@s.whatsapp.net": true,
+        "5493885124462@s.whatsapp.net": true,
+        "5492944679706@s.whatsapp.net": true,
+        "5493755795736@s.whatsapp.net": true,
+        "5492254617294@s.whatsapp.net": true,
+        "5493758401125@s.whatsapp.net": true,
+        "573011232902@s.whatsapp.net": true,
+        "573238497139@s.whatsapp.net": true,
+        "573132249502@s.whatsapp.net": true,
+        "573017270306@s.whatsapp.net": true,
+        "573026317269@s.whatsapp.net": true,
+        "573187004175@s.whatsapp.net": true,
+        "573165148343@s.whatsapp.net": true,
+        "573503720101@s.whatsapp.net": true,
+        "573137782493@s.whatsapp.net": true,
+        "5214531589796@s.whatsapp.net": true,
+        "5219513955929@s.whatsapp.net": true,
+        "5217206479637@s.whatsapp.net": true,
+        "5219844271698@s.whatsapp.net": true,
+        "5216181699789@s.whatsapp.net": true,
+        "5218997039961@s.whatsapp.net": true,
+        "5212491196382@s.whatsapp.net": true,
+        "5218681614864@s.whatsapp.net": true,
+        "5215569108850@s.whatsapp.net": true,
+        "5218211603477@s.whatsapp.net": true,
+        "5219994126273@s.whatsapp.net": true,
+        "5214423200710@s.whatsapp.net": true,
+        "5214931103973@s.whatsapp.net": true,
+        "5217791046208@s.whatsapp.net": true,
+        "5215580572520@s.whatsapp.net": true,
+        "5217261850923@s.whatsapp.net": true,
+        "5212228383115@s.whatsapp.net": true,
+        "5216692281976@s.whatsapp.net": true,
+        "5218119955329@s.whatsapp.net": true,
+        "5214445060734@s.whatsapp.net": true,
+        "5217701524849@s.whatsapp.net": true,
+        "5217561222296@s.whatsapp.net": true,
+        "5213334032374@s.whatsapp.net": true,
+        "5214581166641@s.whatsapp.net": true,
+        "5213124277928@s.whatsapp.net": true,
+        "5216181004412@s.whatsapp.net": true,
+        "56949351547@s.whatsapp.net": true,
+        "56946607106@s.whatsapp.net": true,
+        "56933266412@s.whatsapp.net": true,
+        "56979758575@s.whatsapp.net": true,
+        "51975264888@s.whatsapp.net": true,
+        "5214427724432@s.whatsapp.net": true,
+        "51933760193@s.whatsapp.net": true,
+        "56928829551@s.whatsapp.net": true,
+        "584123889304@s.whatsapp.net": true,
+        "595994515556@s.whatsapp.net": true,
+        "5214871443370@s.whatsapp.net": true,
+        "573242081871@s.whatsapp.net": true,
+        "5217481070650@s.whatsapp.net": true,
+        "573217596697@s.whatsapp.net": true,
+        "584122652328@s.whatsapp.net": true,
+        "50238688127@s.whatsapp.net": true,
+        "5214464251990@s.whatsapp.net": true,
+        "5215635557315@s.whatsapp.net": true,
+        "5216471501058@s.whatsapp.net": true,
+        "5216691798896@s.whatsapp.net": true,
+        "50231722492@s.whatsapp.net": true,
+        "5217226170453@s.whatsapp.net": true,
+        "51938637842@s.whatsapp.net": true,
+        "5219987590294@s.whatsapp.net": true,
+        "5212481848018@s.whatsapp.net": true,
+        "51954204732@s.whatsapp.net": true,
+        "50245836821@s.whatsapp.net": true,
+        "50360043210@s.whatsapp.net": true,
+        "5214625102941@s.whatsapp.net": true,
+        "5216721136091@s.whatsapp.net": true,
+        "5215569353993@s.whatsapp.net": true,
+        "5212381851443@s.whatsapp.net": true,
+        "5218187068348@s.whatsapp.net": true,
+        "50256354053@s.whatsapp.net": true,
+        "51939342449@s.whatsapp.net": true,
+        "595982398540@s.whatsapp.net": true,
+        "5218448927974@s.whatsapp.net": true,
+        "5214371029712@s.whatsapp.net": true,
+        "51925599949@s.whatsapp.net": true,
+        "50577360682@s.whatsapp.net": true,
+        "5213350501810@s.whatsapp.net": true,
+        "5218713844761@s.whatsapp.net": true,
+        "5219933886270@s.whatsapp.net": true,
+        "51933449803@s.whatsapp.net": true,
+        "5218126878798@s.whatsapp.net": true,
+        "573178700391@s.whatsapp.net": true,
+        "51993372358@s.whatsapp.net": true,
+        "5213511352206@s.whatsapp.net": true,
+        "5216143665379@s.whatsapp.net": true,
+        "5219515878928@s.whatsapp.net": true,
+        "16157274126@s.whatsapp.net": true,
+        "5219971154714@s.whatsapp.net": true,
+        "573045736005@s.whatsapp.net": true,
+        "50257392980@s.whatsapp.net": true,
+        "50557572413@s.whatsapp.net": true,
+        "5216711115418@s.whatsapp.net": true,
+        "50765672371@s.whatsapp.net": true,
+        "51986637412@s.whatsapp.net": true,
+        "5219721152122@s.whatsapp.net": true,
+        "51938289065@s.whatsapp.net": true,
+        "5214621657519@s.whatsapp.net": true,
+        "573045379327@s.whatsapp.net": true,
+        "5219632299377@s.whatsapp.net": true,
+        "5217774537224@s.whatsapp.net": true,
+        "5217581050520@s.whatsapp.net": true,
+        "573227266622@s.whatsapp.net": true,
+        "593999212193@s.whatsapp.net": true,
+        "573115193244@s.whatsapp.net": true,
+        "51970251525@s.whatsapp.net": true,
+        "5217721377313@s.whatsapp.net": true,
+        "56940765008@s.whatsapp.net": true,
+        "5215655879349@s.whatsapp.net": true,
+        "51928211931@s.whatsapp.net": true,
+        "50245763003@s.whatsapp.net": true,
+        "573204864606@s.whatsapp.net": true,
+        "5214131626823@s.whatsapp.net": true,
+        "5216181388963@s.whatsapp.net": true,
+        "51927144201@s.whatsapp.net": true,
+        "5219989012719@s.whatsapp.net": true,
+        "51971937036@s.whatsapp.net": true,
+        "51977163241@s.whatsapp.net": true,
+        "5213311963087@s.whatsapp.net": true,
+        "5214436947504@s.whatsapp.net": true,
+        "573244561874@s.whatsapp.net": true,
+        "593958961158@s.whatsapp.net": true,
+        "573022441908@s.whatsapp.net": true,
+        "34631004751@s.whatsapp.net": true,
+        "51910207327@s.whatsapp.net": true,
+        "59895492790@s.whatsapp.net": true,
+        "51972122003@s.whatsapp.net": true,
+        "5219191384718@s.whatsapp.net": true,
+        "593985568237@s.whatsapp.net": true,
+        "5492634532260@s.whatsapp.net": true,
+        "50587647493@s.whatsapp.net": true,
+        "51971245512@s.whatsapp.net": true,
+        "573205312776@s.whatsapp.net": true,
+        "19016433586@s.whatsapp.net": true,
+        "51910689113@s.whatsapp.net": true,
+        "13138082859@s.whatsapp.net": true,
+        "51944265841@s.whatsapp.net": true,
+        "50376634406@s.whatsapp.net": true,
+        "51979447422@s.whatsapp.net": true,
+        "51931180398@s.whatsapp.net": true,
+        "51967734013@s.whatsapp.net": true,
+        "59167847714@s.whatsapp.net": true,
+        "51942286292@s.whatsapp.net": true,
+        "51937406272@s.whatsapp.net": true,
+        "573011326808@s.whatsapp.net": true,
+        "51980441268@s.whatsapp.net": true,
+        "5214811437138@s.whatsapp.net": true,
+        "51939150131@s.whatsapp.net": true,
+        "5219518722822@s.whatsapp.net": true,
+        "5218180239059@s.whatsapp.net": true,
+        "50244878291@s.whatsapp.net": true,
+        "5216623568056@s.whatsapp.net": true,
+        "16025096778@s.whatsapp.net": true,
+        "51973558276@s.whatsapp.net": true,
+        "5214423707204@s.whatsapp.net": true,
+        "50585798181@s.whatsapp.net": true,
+        "5212217974828@s.whatsapp.net": true,
+        "51929287306@s.whatsapp.net": true,
+        "51974768520@s.whatsapp.net": true,
+        "5219971450075@s.whatsapp.net": true,
+        "5215511878049@s.whatsapp.net": true,
+        "593967474422@s.whatsapp.net": true,
+        "5511920572962@s.whatsapp.net": true,
+        "5212411952859@s.whatsapp.net": true,
+        "5217731930701@s.whatsapp.net": true,
+        "5218145384078@s.whatsapp.net": true,
+        "5219615539457@s.whatsapp.net": true,
+        "5216242412399@s.whatsapp.net": true,
+        "51921977973@s.whatsapp.net": true,
+        "595982560471@s.whatsapp.net": true,
+        "50370862436@s.whatsapp.net": true,
+        "59169967065@s.whatsapp.net": true,
+        "573137898388@s.whatsapp.net": true,
+        "50234719219@s.whatsapp.net": true,
+        "5215619583859@s.whatsapp.net": true,
+        "59162064429@s.whatsapp.net": true,
+        "5218119846728@s.whatsapp.net": true,
+        "584247614528@s.whatsapp.net": true,
+        "5218124043136@s.whatsapp.net": true,
+        "5214891009587@s.whatsapp.net": true,
+        "51951257373@s.whatsapp.net": true,
+        "59178513328@s.whatsapp.net": true,
+        "59162719379@s.whatsapp.net": true,
+        "5216681117946@s.whatsapp.net": true,
+        "50584834760@s.whatsapp.net": true,
+        "5213332548637@s.whatsapp.net": true,
+        "5351470255@s.whatsapp.net": true,
+        "5215538418146@s.whatsapp.net": true,
+        "5217227568792@s.whatsapp.net": true,
+        "584246422513@s.whatsapp.net": true,
+        "593987875579@s.whatsapp.net": true,
+        "5214251063757@s.whatsapp.net": true,
+        "5215565555357@s.whatsapp.net": true,
+        "50370953486@s.whatsapp.net": true,
+        "5493875415416@s.whatsapp.net": true,
+        "51983015396@s.whatsapp.net": true,
+        "5217226764690@s.whatsapp.net": true,
+        "5218122902144@s.whatsapp.net": true,
+        "51994907362@s.whatsapp.net": true,
+        "5493754459055@s.whatsapp.net": true,
+        "573202120041@s.whatsapp.net": true,
+        "5214462274189@s.whatsapp.net": true,
+        "51967213566@s.whatsapp.net": true,
+        "50368659904@s.whatsapp.net": true,
+        "51932325980@s.whatsapp.net": true,
+        "50241904457@s.whatsapp.net": true,
+        "51930526514@s.whatsapp.net": true,
+        "51916182639@s.whatsapp.net": true,
+        "51924680590@s.whatsapp.net": true,
+        "59177258578@s.whatsapp.net": true,
+        "59178882307@s.whatsapp.net": true,
+        "51973870131@s.whatsapp.net": true,
+        "573003607140@s.whatsapp.net": true,
+        "59162469470@s.whatsapp.net": true,
+        "51957294277@s.whatsapp.net": true,
+        "5216671296787@s.whatsapp.net": true,
+        "5215521127643@s.whatsapp.net": true,
+        "5218261155746@s.whatsapp.net": true,
+        "59167472692@s.whatsapp.net": true,
+        "5214721142636@s.whatsapp.net": true,
+        "50557233371@s.whatsapp.net": true,
+        "5215659922067@s.whatsapp.net": true,
+        "13236129247@s.whatsapp.net": true,
+        "50769243297@s.whatsapp.net": true,
+        "5213471065107@s.whatsapp.net": true,
+        "51928070017@s.whatsapp.net": true,
+        "5215578305536@s.whatsapp.net": true,
+        "51961664544@s.whatsapp.net": true,
+        "51968755744@s.whatsapp.net": true,
+        "5215642187399@s.whatsapp.net": true,
+        "5216678403425@s.whatsapp.net": true,
+        "5219618650885@s.whatsapp.net": true,
+        "5216624496083@s.whatsapp.net": true,
+        "16027637529@s.whatsapp.net": true,
+        "5363126591@s.whatsapp.net": true,
+        "5217831406562@s.whatsapp.net": true,
+        "5218341326085@s.whatsapp.net": true,
+        "5215513199463@s.whatsapp.net": true,
+        "50249766794@s.whatsapp.net": true,
+        "595985545210@s.whatsapp.net": true,
+        "51901957134@s.whatsapp.net": true,
+        "5215522987580@s.whatsapp.net": true,
+        "50375865349@s.whatsapp.net": true,
+        "584146711386@s.whatsapp.net": true,
+        "16159932306@s.whatsapp.net": true,
+        "50557153595@s.whatsapp.net": true,
+        "50259058834@s.whatsapp.net": true,
+        "5217297826693@s.whatsapp.net": true,
+        "51901680401@s.whatsapp.net": true,
+        "584121367132@s.whatsapp.net": true,
+        "51932521566@s.whatsapp.net": true,
+        "51989336047@s.whatsapp.net": true,
+        "5219988381137@s.whatsapp.net": true,
+        "5214494339774@s.whatsapp.net": true,
+        "50252361362@s.whatsapp.net": true,
+        "51992863768@s.whatsapp.net": true,
+        "595994694801@s.whatsapp.net": true,
+        "593969681779@s.whatsapp.net": true,
+        "50379918543@s.whatsapp.net": true,
+        "50589958466@s.whatsapp.net": true,
+        "5214461208716@s.whatsapp.net": true,
+        "5219821170208@s.whatsapp.net": true,
+        "15026804855@s.whatsapp.net": true,
+        "573216547817@s.whatsapp.net": true,
+        "59163583251@s.whatsapp.net": true,
+        "51971411483@s.whatsapp.net": true,
+        "593985490676@s.whatsapp.net": true,
+        "573232330133@s.whatsapp.net": true,
+        "5215621311166@s.whatsapp.net": true,
+        "573045229934@s.whatsapp.net": true,
+        "51928369376@s.whatsapp.net": true,
+        "5213251146662@s.whatsapp.net": true,
+        "5214491879303@s.whatsapp.net": true,
+        "51913310322@s.whatsapp.net": true,
+        "584241425547@s.whatsapp.net": true,
+        "19082673331@s.whatsapp.net": true,
+        "51987593131@s.whatsapp.net": true,
+        "5493804494571@s.whatsapp.net": true,
+        "584262519905@s.whatsapp.net": true,
+        "50255627631@s.whatsapp.net": true,
+        "51963993136@s.whatsapp.net": true,
+        "5216673177748@s.whatsapp.net": true,
+        "5219241370449@s.whatsapp.net": true,
+        "5217715463225@s.whatsapp.net": true,
+        "595976592438@s.whatsapp.net": true,
+        "584246326096@s.whatsapp.net": true,
+        "5214615284039@s.whatsapp.net": true,
+        "573105043750@s.whatsapp.net": true,
+        "5355287299@s.whatsapp.net": true,
+        "593995140617@s.whatsapp.net": true,
+        "51977134993@s.whatsapp.net": true,
+        "5217293668404@s.whatsapp.net": true,
+        "5212721793543@s.whatsapp.net": true,
+        "50493723982@s.whatsapp.net": true,
+        "5216961045503@s.whatsapp.net": true,
+        "573227467675@s.whatsapp.net": true,
+        "573118597305@s.whatsapp.net": true,
+        "5216674159821@s.whatsapp.net": true,
+        "584147858033@s.whatsapp.net": true,
+        "34613385373@s.whatsapp.net": true,
+        "5219613629322@s.whatsapp.net": true,
+        "5215515975287@s.whatsapp.net": true,
+        "5215524995394@s.whatsapp.net": true,
+        "5214521086152@s.whatsapp.net": true,
+        "5218421185345@s.whatsapp.net": true,
+        "18498798062@s.whatsapp.net": true,
+        "5493518505768@s.whatsapp.net": true,
+        "50584699095@s.whatsapp.net": true,
+        "5218123384750@s.whatsapp.net": true,
+        "51925788220@s.whatsapp.net": true,
+        "584120671667@s.whatsapp.net": true,
+        "5218311772192@s.whatsapp.net": true,
+        "573133809770@s.whatsapp.net": true,
+        "50241910327@s.whatsapp.net": true,
+        "59892218398@s.whatsapp.net": true,
+        "5216866047862@s.whatsapp.net": true,
+        "5214811464101@s.whatsapp.net": true,
+        "16508800847@s.whatsapp.net": true,
+        "573138005285@s.whatsapp.net": true,
+        "59172389590@s.whatsapp.net": true,
+        "5216865892252@s.whatsapp.net": true,
+        "5214422748371@s.whatsapp.net": true,
+        "573134328172@s.whatsapp.net": true,
+        "50244874820@s.whatsapp.net": true,
+        "5214811027165@s.whatsapp.net": true,
+        "50255513644@s.whatsapp.net": true,
+        "5217226425420@s.whatsapp.net": true,
+        "5214921732454@s.whatsapp.net": true,
+        "5493804353730@s.whatsapp.net": true,
+        "212657072339@s.whatsapp.net": true,
+        "51919630299@s.whatsapp.net": true,
+        "5216561075778@s.whatsapp.net": true,
+        "51913105066@s.whatsapp.net": true,
+        "923157088861@s.whatsapp.net": true,
+        "5493435149623@s.whatsapp.net": true,
+        "50660487695@s.whatsapp.net": true,
+        "5217153068862@s.whatsapp.net": true,
+        "5217751866207@s.whatsapp.net": true,
+        "5218781190043@s.whatsapp.net": true,
+        "15416400838@s.whatsapp.net": true,
+        "5493734445647@s.whatsapp.net": true,
+        "5216122030801@s.whatsapp.net": true,
+        "34650799237@s.whatsapp.net": true,
+        "573506406758@s.whatsapp.net": true,
+        "573015108466@s.whatsapp.net": true,
+        "5216941151294@s.whatsapp.net": true,
+        "5215537080117@s.whatsapp.net": true,
+        "18093592412@s.whatsapp.net": true,
+        "5219671447443@s.whatsapp.net": true,
+        "5215511733419@s.whatsapp.net": true,
+        "5492645836095@s.whatsapp.net": true,
+        "5212481640715@s.whatsapp.net": true,
+        "51972758526@s.whatsapp.net": true,
+        "5218661000229@s.whatsapp.net": true,
+        "5215645355354@s.whatsapp.net": true,
+        "5215587983723@s.whatsapp.net": true,
+        "5218242202794@s.whatsapp.net": true,
+        "50258354054@s.whatsapp.net": true,
+        "5212441576315@s.whatsapp.net": true,
+        "5212228502214@s.whatsapp.net": true,
+        "5217341357897@s.whatsapp.net": true,
+        "50585025318@s.whatsapp.net": true,
+        "5215539059556@s.whatsapp.net": true,
+        "18492799328@s.whatsapp.net": true,
+        "50235965616@s.whatsapp.net": true,
+        "573242452014@s.whatsapp.net": true,
+        "5217753453274@s.whatsapp.net": true,
+        "5219613023604@s.whatsapp.net": true,
+        "5217222955208@s.whatsapp.net": true,
+        "5491133705868@s.whatsapp.net": true,
+        "573024771892@s.whatsapp.net": true,
+        "5213921830121@s.whatsapp.net": true,
+        "5352962844@s.whatsapp.net": true,
+        "5214623973265@s.whatsapp.net": true,
+        "5219531229848@s.whatsapp.net": true,
+        "584127424858@s.whatsapp.net": true,
+        "5212351140375@s.whatsapp.net": true,
+        "5215632387972@s.whatsapp.net": true,
+        "573204018696@s.whatsapp.net": true,
+        "51970897283@s.whatsapp.net": true,
+        "13472513339@s.whatsapp.net": true,
+        "5212231176211@s.whatsapp.net": true,
+        "5216565792243@s.whatsapp.net": true,
+        "5212722363370@s.whatsapp.net": true,
+        "5218131334339@s.whatsapp.net": true,
+        "5214795071285@s.whatsapp.net": true,
+        "51965851625@s.whatsapp.net": true,
+        "573018057550@s.whatsapp.net": true,
+        "5218991588205@s.whatsapp.net": true,
+        "5492646269001@s.whatsapp.net": true,
+        "51955794827@s.whatsapp.net": true,
+        "5218442798724@s.whatsapp.net": true,
+        "5213326251645@s.whatsapp.net": true,
+        "5219581073704@s.whatsapp.net": true,
+        "573216744615@s.whatsapp.net": true,
+        "573138144993@s.whatsapp.net": true,
+        "16266923012@s.whatsapp.net": true,
+        "5215527505892@s.whatsapp.net": true,
+        "5218713970237@s.whatsapp.net": true,
+        "5218448452156@s.whatsapp.net": true,
+        "5219617113737@s.whatsapp.net": true,
+        "559182518132@s.whatsapp.net": true,
+        "573013985917@s.whatsapp.net": true,
+        "5215527780115@s.whatsapp.net": true,
+        "5215611215135@s.whatsapp.net": true,
+        "50492501319@s.whatsapp.net": true,
+        "51958750312@s.whatsapp.net": true,
+        "18095196773@s.whatsapp.net": true,
+        "5212202075117@s.whatsapp.net": true,
+        "5218715018458@s.whatsapp.net": true,
+        "5219619391982@s.whatsapp.net": true,
+        "5217122351031@s.whatsapp.net": true,
+        "573018470321@s.whatsapp.net": true,
+        "51992253966@s.whatsapp.net": true,
+        "593959715759@s.whatsapp.net": true,
+        "573225388485@s.whatsapp.net": true,
+        "573102102162@s.whatsapp.net": true,
+        "573044368451@s.whatsapp.net": true,
+        "51981101482@s.whatsapp.net": true,
+        "5214401323495@s.whatsapp.net": true,
+        "59164594695@s.whatsapp.net": true,
+        "5215619447830@s.whatsapp.net": true,
+        "5215660828520@s.whatsapp.net": true,
+        "5216564993898@s.whatsapp.net": true,
+        "5215574193541@s.whatsapp.net": true,
+        "51963483853@s.whatsapp.net": true,
+        "50253841276@s.whatsapp.net": true,
+        "59164119863@s.whatsapp.net": true,
+        "584242914375@s.whatsapp.net": true,
+        "573019488803@s.whatsapp.net": true,
+        "56939099115@s.whatsapp.net": true,
+        "56920298985@s.whatsapp.net": true,
+        "5219611306591@s.whatsapp.net": true,
+        "50363053827@s.whatsapp.net": true,
+        "5219616279624@s.whatsapp.net": true,
+        "34662234940@s.whatsapp.net": true,
+        "50582668411@s.whatsapp.net": true,
+        "50249910957@s.whatsapp.net": true,
+        "5355328418@s.whatsapp.net": true,
+        "5216562775622@s.whatsapp.net": true,
+        "593995385307@s.whatsapp.net": true,
+        "573134683637@s.whatsapp.net": true,
+        "51921839805@s.whatsapp.net": true,
+        "5215578694977@s.whatsapp.net": true,
+        "584248569085@s.whatsapp.net": true,
+        "5219841723908@s.whatsapp.net": true,
+        "59898138052@s.whatsapp.net": true,
+        "5219984079525@s.whatsapp.net": true,
+        "5218995443279@s.whatsapp.net": true,
+        "5218334523750@s.whatsapp.net": true,
+        "584122366680@s.whatsapp.net": true,
+        "59176744866@s.whatsapp.net": true,
+        "595983575101@s.whatsapp.net": true,
+        "573207365619@s.whatsapp.net": true,
+        "5212731292216@s.whatsapp.net": true,
+        "5214781025297@s.whatsapp.net": true,
+        "5212226698409@s.whatsapp.net": true,
+        "573118861647@s.whatsapp.net": true,
+        "584260858982@s.whatsapp.net": true,
+        "50255080025@s.whatsapp.net": true,
+        "5218311188478@s.whatsapp.net": true,
+        "5359569271@s.whatsapp.net": true,
+        "212705887078@s.whatsapp.net": true,
+        "584242044483@s.whatsapp.net": true,
+        "212774794433@s.whatsapp.net": true,
+        "573208642466@s.whatsapp.net": true,
+        "56926450599@s.whatsapp.net": true,
+        "573127908642@s.whatsapp.net": true,
+        "51924175813@s.whatsapp.net": true,
+        "50585011503@s.whatsapp.net": true,
+        "573135345580@s.whatsapp.net": true,
+        "5216674627082@s.whatsapp.net": true,
+        "51963364641@s.whatsapp.net": true,
+        "51952226442@s.whatsapp.net": true,
+        "573016687880@s.whatsapp.net": true,
+        "5218661070399@s.whatsapp.net": true,
+        "5491126633881@s.whatsapp.net": true,
+        "50249805659@s.whatsapp.net": true,
+        "17376777019@s.whatsapp.net": true,
+        "573114982391@s.whatsapp.net": true,
+        "573043040970@s.whatsapp.net": true,
+        "51961080537@s.whatsapp.net": true,
+        "5215574661963@s.whatsapp.net": true,
+        "5493884406010@s.whatsapp.net": true,
+        "17866163376@s.whatsapp.net": true,
+        "5217351108351@s.whatsapp.net": true,
+        "573019346508@s.whatsapp.net": true,
+        "5217841468907@s.whatsapp.net": true,
+        "5217227645117@s.whatsapp.net": true,
+        "50586629789@s.whatsapp.net": true,
+        "5215651900730@s.whatsapp.net": true,
+        "5212311125422@s.whatsapp.net": true,
+        "51914269428@s.whatsapp.net": true,
+        "573247497634@s.whatsapp.net": true,
+        "56929145088@s.whatsapp.net": true,
+        "5215574523688@s.whatsapp.net": true,
+        "5215554081896@s.whatsapp.net": true,
+        "573224513813@s.whatsapp.net": true,
+        "51931776012@s.whatsapp.net": true,
+        "5215654807116@s.whatsapp.net": true,
+        "5217121545747@s.whatsapp.net": true,
+        "573127707682@s.whatsapp.net": true,
+        "34602606638@s.whatsapp.net": true,
+        "51925565134@s.whatsapp.net": true,
+        "573106206123@s.whatsapp.net": true,
+        "5212321543682@s.whatsapp.net": true,
+        "59165742680@s.whatsapp.net": true,
+        "51928749490@s.whatsapp.net": true,
+        "5219844378151@s.whatsapp.net": true,
+        "5217711612720@s.whatsapp.net": true,
+        "51928704037@s.whatsapp.net": true,
+        "5216251143231@s.whatsapp.net": true,
+        "5219612317536@s.whatsapp.net": true,
+        "5219673394881@s.whatsapp.net": true,
+        "19198023293@s.whatsapp.net": true,
+        "5216676804542@s.whatsapp.net": true,
+        "593992776125@s.whatsapp.net": true,
+        "5217225242547@s.whatsapp.net": true,
+        "5216673181529@s.whatsapp.net": true,
+        "5355975485@s.whatsapp.net": true,
+        "51920669794@s.whatsapp.net": true,
+        "5217751585428@s.whatsapp.net": true,
+        "51992955980@s.whatsapp.net": true,
+        "51939090101@s.whatsapp.net": true,
+        "573024106745@s.whatsapp.net": true,
+        "573213176988@s.whatsapp.net": true,
+        "5213348618049@s.whatsapp.net": true,
+        "5492945644424@s.whatsapp.net": true,
+        "5212261694219@s.whatsapp.net": true,
+        "50558204199@s.whatsapp.net": true,
+        "5217296055533@s.whatsapp.net": true,
+        "5217711423598@s.whatsapp.net": true,
+        "573126977148@s.whatsapp.net": true,
+        "5217261639155@s.whatsapp.net": true,
+        "5213221736255@s.whatsapp.net": true,
+        "5217721507090@s.whatsapp.net": true,
+        "5215634092162@s.whatsapp.net": true,
+        "5212464805974@s.whatsapp.net": true,
+        "5493704022575@s.whatsapp.net": true,
+        "50494766827@s.whatsapp.net": true,
+        "5219541279409@s.whatsapp.net": true,
+        "5215651889409@s.whatsapp.net": true,
+        "5217421023875@s.whatsapp.net": true,
+        "584144203248@s.whatsapp.net": true,
+        "5218994190863@s.whatsapp.net": true,
+        "5218331563329@s.whatsapp.net": true,
+        "5219171072405@s.whatsapp.net": true,
+        "5219511067265@s.whatsapp.net": true,
+        "5218711605357@s.whatsapp.net": true,
+        "5215519041110@s.whatsapp.net": true,
+        "59160318311@s.whatsapp.net": true,
+        "51918023907@s.whatsapp.net": true,
+        "51932346376@s.whatsapp.net": true,
+        "5217223889167@s.whatsapp.net": true,
+        "593992800817@s.whatsapp.net": true,
+        "5218683657882@s.whatsapp.net": true,
+        "573216548962@s.whatsapp.net": true,
+        "5218331096884@s.whatsapp.net": true,
+        "51913349300@s.whatsapp.net": true,
+        "573024060286@s.whatsapp.net": true,
+        "5219513251782@s.whatsapp.net": true,
+        "5492644451989@s.whatsapp.net": true,
+        "50672814215@s.whatsapp.net": true,
+        "5493814736146@s.whatsapp.net": true,
+        "584161522682@s.whatsapp.net": true,
+        "5218714152607@s.whatsapp.net": true,
+        "5215621904723@s.whatsapp.net": true,
+        "5217751296752@s.whatsapp.net": true,
+        "50760991589@s.whatsapp.net": true,
+        "51991538172@s.whatsapp.net": true,
+        "5218313031210@s.whatsapp.net": true,
+        "51937528030@s.whatsapp.net": true,
+        "573142841098@s.whatsapp.net": true,
+        "5218712644525@s.whatsapp.net": true,
+        "51939658037@s.whatsapp.net": true,
+        "5212821071000@s.whatsapp.net": true,
+        "5212201429250@s.whatsapp.net": true,
+        "5213317715414@s.whatsapp.net": true,
+        "593964068322@s.whatsapp.net": true,
+        "595984059768@s.whatsapp.net": true,
+        "51923767110@s.whatsapp.net": true,
+        "51968779414@s.whatsapp.net": true,
+        "593995012420@s.whatsapp.net": true,
+        "59164315305@s.whatsapp.net": true,
+        "18298950266@s.whatsapp.net": true,
+        "5214481114118@s.whatsapp.net": true,
+        "559282121601@s.whatsapp.net": true,
+        "5218139104370@s.whatsapp.net": true,
+        "595984953942@s.whatsapp.net": true,
+        "5217223671297@s.whatsapp.net": true,
+        "56966458042@s.whatsapp.net": true,
+        "5218123845583@s.whatsapp.net": true,
+        "5215660539127@s.whatsapp.net": true,
+        "51974517204@s.whatsapp.net": true,
+        "51952020197@s.whatsapp.net": true,
+        "51917198031@s.whatsapp.net": true,
+        "5218441059586@s.whatsapp.net": true,
+        "5218187787884@s.whatsapp.net": true,
+        "5215547105087@s.whatsapp.net": true,
+        "51973904297@s.whatsapp.net": true,
+        "573133226570@s.whatsapp.net": true,
+        "593990871211@s.whatsapp.net": true,
+        "573106611312@s.whatsapp.net": true,
+        "12403885694@s.whatsapp.net": true,
+        "51942698197@s.whatsapp.net": true,
+        "50688510728@s.whatsapp.net": true,
+        "50364467600@s.whatsapp.net": true,
+        "50253370070@s.whatsapp.net": true,
+        "573205927064@s.whatsapp.net": true,
+        "5218117800147@s.whatsapp.net": true,
+        "5214111987965@s.whatsapp.net": true,
+        "5212285300135@s.whatsapp.net": true,
+        "5212711394611@s.whatsapp.net": true,
+        "56929781051@s.whatsapp.net": true,
+        "5212831243765@s.whatsapp.net": true,
+        "595991282924@s.whatsapp.net": true,
+        "573024496421@s.whatsapp.net": true,
+        "5213345769104@s.whatsapp.net": true,
+        "5493535084873@s.whatsapp.net": true,
+        "50241045200@s.whatsapp.net": true,
+        "5212472040288@s.whatsapp.net": true,
+        "5217751211689@s.whatsapp.net": true,
+        "5492646229699@s.whatsapp.net": true,
+        "51951423389@s.whatsapp.net": true,
+        "5215548526417@s.whatsapp.net": true,
+        "584120985099@s.whatsapp.net": true,
+        "5219934352470@s.whatsapp.net": true,
+        "5213348544728@s.whatsapp.net": true,
+        "573133010813@s.whatsapp.net": true,
+        "573186683767@s.whatsapp.net": true,
+        "51906985376@s.whatsapp.net": true,
+        "5219341111603@s.whatsapp.net": true,
+        "5218461103896@s.whatsapp.net": true,
+        "5219661139254@s.whatsapp.net": true,
+        "573224306307@s.whatsapp.net": true,
+        "5216251030667@s.whatsapp.net": true,
+        "59169604061@s.whatsapp.net": true,
+        "5218135553242@s.whatsapp.net": true,
+        "573106575374@s.whatsapp.net": true,
+        "573024664528@s.whatsapp.net": true,
+        "5214523048078@s.whatsapp.net": true,
+        "584246184655@s.whatsapp.net": true,
+        "5214423466156@s.whatsapp.net": true,
+        "51906566057@s.whatsapp.net": true,
+        "573242137662@s.whatsapp.net": true,
+        "584129352790@s.whatsapp.net": true,
+        "5216182651045@s.whatsapp.net": true,
+        "51965228916@s.whatsapp.net": true,
+        "5213113749019@s.whatsapp.net": true,
+        "559591566835@s.whatsapp.net": true,
+        "51948315496@s.whatsapp.net": true,
+        "573115972359@s.whatsapp.net": true,
+        "593994055975@s.whatsapp.net": true,
+        "5215631055629@s.whatsapp.net": true,
+        "5214434619667@s.whatsapp.net": true,
+        "51980140923@s.whatsapp.net": true,
+        "5219937327663@s.whatsapp.net": true,
+        "51989405077@s.whatsapp.net": true,
+        "51951364140@s.whatsapp.net": true,
+        "255785834182@s.whatsapp.net": true,
+        "5215577597624@s.whatsapp.net": true,
+        "5214775408092@s.whatsapp.net": true,
+        "5493876461240@s.whatsapp.net": true,
+        "59168831777@s.whatsapp.net": true,
+        "5212412367561@s.whatsapp.net": true,
+        "5216672364638@s.whatsapp.net": true,
+        "5214772800966@s.whatsapp.net": true,
+        "51961979143@s.whatsapp.net": true,
+        "50377101168@s.whatsapp.net": true,
+        "51980816457@s.whatsapp.net": true,
+        "5214781009187@s.whatsapp.net": true,
+        "5491171087608@s.whatsapp.net": true,
+        "50230155084@s.whatsapp.net": true,
+        "51927395617@s.whatsapp.net": true,
+        "595986727183@s.whatsapp.net": true,
+        "573506484701@s.whatsapp.net": true,
+        "5219516452034@s.whatsapp.net": true,
+        "51902162868@s.whatsapp.net": true,
+        "5216871244659@s.whatsapp.net": true,
+        "5215626926516@s.whatsapp.net": true,
+        "584242978754@s.whatsapp.net": true,
+        "573106279171@s.whatsapp.net": true,
+        "5213324201678@s.whatsapp.net": true,
+        "573218098142@s.whatsapp.net": true,
+        "5214439146838@s.whatsapp.net": true,
+        "51944080708@s.whatsapp.net": true,
+        "5215655035838@s.whatsapp.net": true,
+        "19282025907@s.whatsapp.net": true,
+        "50251115739@s.whatsapp.net": true,
+        "51992622836@s.whatsapp.net": true,
+        "50377880805@s.whatsapp.net": true,
+        "5217761353248@s.whatsapp.net": true,
+        "573227711158@s.whatsapp.net": true,
+        "56964058874@s.whatsapp.net": true,
+        "5212299010982@s.whatsapp.net": true,
+        "5218116955909@s.whatsapp.net": true,
+        "51900137759@s.whatsapp.net": true,
+        "56982277915@s.whatsapp.net": true,
+        "595974551625@s.whatsapp.net": true,
+        "573042604756@s.whatsapp.net": true,
+        "573133267404@s.whatsapp.net": true,
+        "51972239116@s.whatsapp.net": true,
+        "573045595142@s.whatsapp.net": true,
+        "5216674874931@s.whatsapp.net": true,
+        "5216866994480@s.whatsapp.net": true,
+        "51900765421@s.whatsapp.net": true,
+        "5214436822077@s.whatsapp.net": true,
+        "573233147225@s.whatsapp.net": true,
+        "5216271329876@s.whatsapp.net": true,
+        "5217712664815@s.whatsapp.net": true,
+        "5218348536464@s.whatsapp.net": true,
+        "5216631071648@s.whatsapp.net": true,
+        "5213114461235@s.whatsapp.net": true,
+        "573122296578@s.whatsapp.net": true,
+        "595971113328@s.whatsapp.net": true,
+        "5216251047638@s.whatsapp.net": true,
+        "5212231142924@s.whatsapp.net": true,
+        "5214281120342@s.whatsapp.net": true,
+        "5217731863234@s.whatsapp.net": true,
+        "5212213590557@s.whatsapp.net": true,
+        "5212203789839@s.whatsapp.net": true,
+        "51927102134@s.whatsapp.net": true,
+        "5212761270324@s.whatsapp.net": true,
+        "573239957168@s.whatsapp.net": true,
+        "5216647458277@s.whatsapp.net": true,
+        "5216674051503@s.whatsapp.net": true,
+        "51906847611@s.whatsapp.net": true,
+        "5216867389048@s.whatsapp.net": true,
+        "15616579666@s.whatsapp.net": true,
+        "5219995074626@s.whatsapp.net": true,
+        "56940624808@s.whatsapp.net": true,
+        "5219878767292@s.whatsapp.net": true,
+        "5216491167712@s.whatsapp.net": true,
+        "593969488840@s.whatsapp.net": true,
+        "5215576451983@s.whatsapp.net": true,
+        "5493884425310@s.whatsapp.net": true,
+        "51916540927@s.whatsapp.net": true,
+        "51985348466@s.whatsapp.net": true,
+        "5213317453104@s.whatsapp.net": true,
+        "5218731001153@s.whatsapp.net": true,
+        "5214421715127@s.whatsapp.net": true,
+        "5219981918627@s.whatsapp.net": true,
+        "51942351784@s.whatsapp.net": true,
+        "5219992649802@s.whatsapp.net": true,
+        "5216681366502@s.whatsapp.net": true,
+        "19292254280@s.whatsapp.net": true,
+        "573145097991@s.whatsapp.net": true,
+        "5212712100219@s.whatsapp.net": true,
+        "5219931605453@s.whatsapp.net": true,
+        "5219612173593@s.whatsapp.net": true,
+        "5219661107804@s.whatsapp.net": true,
+        "5219517996826@s.whatsapp.net": true,
+        "5216624134508@s.whatsapp.net": true,
+        "5218626283654@s.whatsapp.net": true,
+        "559584250791@s.whatsapp.net": true,
+        "5217221339557@s.whatsapp.net": true,
+        "5493813891860@s.whatsapp.net": true,
+        "5216565945728@s.whatsapp.net": true,
+        "5216863936106@s.whatsapp.net": true,
+        "5217774413314@s.whatsapp.net": true,
+        "573133892005@s.whatsapp.net": true,
+        "5213342858311@s.whatsapp.net": true,
+        "50238404509@s.whatsapp.net": true,
+        "51925827014@s.whatsapp.net": true,
+        "5214773948251@s.whatsapp.net": true,
+        "5492634735128@s.whatsapp.net": true,
+        "50585086094@s.whatsapp.net": true,
+        "50239807709@s.whatsapp.net": true,
+        "573106542425@s.whatsapp.net": true,
+        "59892649187@s.whatsapp.net": true,
+        "5215578344200@s.whatsapp.net": true,
+        "5217822195371@s.whatsapp.net": true,
+        "59173257172@s.whatsapp.net": true,
+        "584124449569@s.whatsapp.net": true,
+        "5219983950333@s.whatsapp.net": true,
+        "5214432468377@s.whatsapp.net": true,
+        "5219541009307@s.whatsapp.net": true,
+        "5212871171673@s.whatsapp.net": true,
+        "56978289066@s.whatsapp.net": true,
+        "5216621044501@s.whatsapp.net": true,
+        "573332837576@s.whatsapp.net": true,
+        "50256734241@s.whatsapp.net": true,
+        "573012483408@s.whatsapp.net": true,
+        "16154032157@s.whatsapp.net": true,
+        "13475994077@s.whatsapp.net": true,
+        "5217778333761@s.whatsapp.net": true,
+        "51957754602@s.whatsapp.net": true,
+        "59163674948@s.whatsapp.net": true,
+        "5214111348807@s.whatsapp.net": true,
+        "5216567751063@s.whatsapp.net": true,
+        "5217721588958@s.whatsapp.net": true,
+        "5216631577825@s.whatsapp.net": true,
+        "51932093278@s.whatsapp.net": true,
+        "573018424784@s.whatsapp.net": true,
+        "51917615244@s.whatsapp.net": true,
+        "51967383864@s.whatsapp.net": true,
+        "51918395736@s.whatsapp.net": true,
+        "5217228608530@s.whatsapp.net": true,
+        "5216188231307@s.whatsapp.net": true,
+        "595961386490@s.whatsapp.net": true,
+        "573018139750@s.whatsapp.net": true,
+        "5212712461680@s.whatsapp.net": true,
+        "5213317554271@s.whatsapp.net": true,
+        "584160855634@s.whatsapp.net": true,
+        "5213346606049@s.whatsapp.net": true,
+        "56922186472@s.whatsapp.net": true,
+        "51917871693@s.whatsapp.net": true,
+        "5215654168579@s.whatsapp.net": true,
+        "5219512348623@s.whatsapp.net": true,
+        "59162059961@s.whatsapp.net": true,
+        "5212215770686@s.whatsapp.net": true,
+        "59177556188@s.whatsapp.net": true,
+        "573126095061@s.whatsapp.net": true,
+        "5219845919473@s.whatsapp.net": true,
+        "50585696732@s.whatsapp.net": true,
+        "573208073974@s.whatsapp.net": true,
+        "593993529085@s.whatsapp.net": true,
+        "5218129591995@s.whatsapp.net": true,
+        "5219212567755@s.whatsapp.net": true,
+        "573135042475@s.whatsapp.net": true,
+        "5217555583789@s.whatsapp.net": true,
+        "5219331032941@s.whatsapp.net": true,
+        "573127563446@s.whatsapp.net": true,
+        "5215530219731@s.whatsapp.net": true,
+        "5218145989743@s.whatsapp.net": true,
+        "593989713432@s.whatsapp.net": true,
+        "593979492325@s.whatsapp.net": true,
+        "51974214365@s.whatsapp.net": true,
+        "5219821037549@s.whatsapp.net": true,
+        "573008241253@s.whatsapp.net": true,
+        "5217225381620@s.whatsapp.net": true,
+        "5219331235383@s.whatsapp.net": true,
+        "593987823240@s.whatsapp.net": true,
+        "56978585309@s.whatsapp.net": true,
+        "5215665441701@s.whatsapp.net": true,
+        "573185789766@s.whatsapp.net": true,
+        "5212322493064@s.whatsapp.net": true,
+        "5215571905477@s.whatsapp.net": true,
+        "5215643915094@s.whatsapp.net": true,
+        "553799082635@s.whatsapp.net": true,
+        "5214495500979@s.whatsapp.net": true,
+        "51921412007@s.whatsapp.net": true,
+        "5214438743345@s.whatsapp.net": true,
+        "5219981043452@s.whatsapp.net": true,
+        "5491138692674@s.whatsapp.net": true,
+        "5217221099461@s.whatsapp.net": true,
+        "5219171262317@s.whatsapp.net": true,
+        "5215533680154@s.whatsapp.net": true,
+        "5214721401291@s.whatsapp.net": true,
+        "5212331040995@s.whatsapp.net": true,
+        "51962530041@s.whatsapp.net": true,
+        "573224246211@s.whatsapp.net": true,
+        "51919578757@s.whatsapp.net": true,
+        "51901660811@s.whatsapp.net": true,
+        "573205308623@s.whatsapp.net": true,
+        "5216862783989@s.whatsapp.net": true,
+        "5215581604322@s.whatsapp.net": true,
+        "51987682376@s.whatsapp.net": true,
+        "51956729918@s.whatsapp.net": true,
+        "573234892093@s.whatsapp.net": true,
+        "573227925771@s.whatsapp.net": true,
+        "51904473862@s.whatsapp.net": true,
+        "555596100436@s.whatsapp.net": true,
+        "5215631015681@s.whatsapp.net": true,
+        "593998141611@s.whatsapp.net": true,
+        "50232766591@s.whatsapp.net": true,
+        "50587348596@s.whatsapp.net": true,
+        "5215521066353@s.whatsapp.net": true,
+        "5216471154151@s.whatsapp.net": true,
+        "5212229245087@s.whatsapp.net": true,
+        "5218333257809@s.whatsapp.net": true,
+        "51901622455@s.whatsapp.net": true,
+        "16194590223@s.whatsapp.net": true,
+        "59173898452@s.whatsapp.net": true,
+        "12094070800@s.whatsapp.net": true,
+        "51971486531@s.whatsapp.net": true,
+        "5212241047827@s.whatsapp.net": true,
+        "573142175960@s.whatsapp.net": true,
+        "5219981987968@s.whatsapp.net": true,
+        "5219515708087@s.whatsapp.net": true,
+        "5219992195546@s.whatsapp.net": true,
+        "50498601641@s.whatsapp.net": true,
+        "50231349042@s.whatsapp.net": true,
+        "5216871586507@s.whatsapp.net": true,
+        "51914273869@s.whatsapp.net": true,
+        "5215548775497@s.whatsapp.net": true,
+        "593998266833@s.whatsapp.net": true,
+        "573216337820@s.whatsapp.net": true,
+        "573215223953@s.whatsapp.net": true,
+        "5216568347711@s.whatsapp.net": true,
+        "558598465280@s.whatsapp.net": true,
+        "5218119788506@s.whatsapp.net": true,
+        "573244976997@s.whatsapp.net": true,
+        "5216613489407@s.whatsapp.net": true,
+        "584245967637@s.whatsapp.net": true,
+        "573132818712@s.whatsapp.net": true,
+        "573213411454@s.whatsapp.net": true,
+        "573019589631@s.whatsapp.net": true,
+        "5511948642073@s.whatsapp.net": true,
+        "5212941691184@s.whatsapp.net": true,
+        "51910575084@s.whatsapp.net": true,
+        "5216949512679@s.whatsapp.net": true,
+        "51993692593@s.whatsapp.net": true,
+        "5219601768253@s.whatsapp.net": true,
+        "573102120567@s.whatsapp.net": true,
+        "573018679178@s.whatsapp.net": true,
+        "5219831655570@s.whatsapp.net": true,
+        "59167357763@s.whatsapp.net": true,
+        "5216699126891@s.whatsapp.net": true,
+        "50241640283@s.whatsapp.net": true,
+        "5217821889003@s.whatsapp.net": true,
+        "50583827401@s.whatsapp.net": true,
+        "5217561275083@s.whatsapp.net": true,
+        "5218120360089@s.whatsapp.net": true,
+        "5216444777101@s.whatsapp.net": true,
+        "573004588982@s.whatsapp.net": true,
+        "5212241087786@s.whatsapp.net": true,
+        "5219171096525@s.whatsapp.net": true,
+        "51953817518@s.whatsapp.net": true,
+        "5213131504065@s.whatsapp.net": true,
+        "5511948779448@s.whatsapp.net": true,
+        "5214425259624@s.whatsapp.net": true,
+        "51960795049@s.whatsapp.net": true,
+        "5212331047353@s.whatsapp.net": true,
+        "573183070133@s.whatsapp.net": true,
+        "573503634819@s.whatsapp.net": true,
+        "51982795196@s.whatsapp.net": true,
+        "5217491409049@s.whatsapp.net": true,
+        "5212201425562@s.whatsapp.net": true,
+        "5493416624627@s.whatsapp.net": true,
+        "5215610372983@s.whatsapp.net": true,
+        "51933169743@s.whatsapp.net": true,
+        "573148852573@s.whatsapp.net": true,
+        "5215651779600@s.whatsapp.net": true,
+        "5212462441477@s.whatsapp.net": true,
+        "50379023681@s.whatsapp.net": true,
+        "5218332582830@s.whatsapp.net": true,
+        "573247351959@s.whatsapp.net": true,
+        "50246220787@s.whatsapp.net": true,
+        "573125719689@s.whatsapp.net": true,
+        "5218333943707@s.whatsapp.net": true
+      }
+    },
+    "120363216137525596@g.us": {
+      "antilinks": true,
+      "nsfw": false,
+      "members": {
+        "593963659293@s.whatsapp.net": true,
+        "51952970329@s.whatsapp.net": true,
+        "59169913296@s.whatsapp.net": true,
+        "51913888383@s.whatsapp.net": true,
+        "5213332399071@s.whatsapp.net": true,
+        "50671676036@s.whatsapp.net": true,
+        "573016588869@s.whatsapp.net": true,
+        "593963312646@s.whatsapp.net": true,
+        "5218995477392@s.whatsapp.net": true,
+        "593958941656@s.whatsapp.net": true,
+        "59172492804@s.whatsapp.net": true,
+        "51946063356@s.whatsapp.net": true,
+        "5215627223722@s.whatsapp.net": true,
+        "5215659026929@s.whatsapp.net": true,
+        "5214831189608@s.whatsapp.net": true,
+        "593991027299@s.whatsapp.net": true,
+        "5212225196119@s.whatsapp.net": true,
+        "5212241159747@s.whatsapp.net": true,
+        "5217733504465@s.whatsapp.net": true,
+        "5219651152839@s.whatsapp.net": true,
+        "51925312435@s.whatsapp.net": true,
+        "5215523416392@s.whatsapp.net": true,
+        "50247001158@s.whatsapp.net": true,
+        "593988484435@s.whatsapp.net": true,
+        "50246207676@s.whatsapp.net": true,
+        "50433037576@s.whatsapp.net": true,
+        "5213541015174@s.whatsapp.net": true,
+        "51934957158@s.whatsapp.net": true,
+        "5219961079694@s.whatsapp.net": true,
+        "5218138001182@s.whatsapp.net": true,
+        "17157732851@s.whatsapp.net": true,
+        "5363662400@s.whatsapp.net": true,
+        "51917896558@s.whatsapp.net": true,
+        "5492284608261@s.whatsapp.net": true,
+        "5358750188@s.whatsapp.net": true,
+        "5215560905262@s.whatsapp.net": true,
+        "50249810980@s.whatsapp.net": true,
+        "5212213809242@s.whatsapp.net": true,
+        "5218621113756@s.whatsapp.net": true,
+        "51933276278@s.whatsapp.net": true,
+        "5214427724432@s.whatsapp.net": true,
+        "5213337220910@s.whatsapp.net": true,
+        "5214428549882@s.whatsapp.net": true,
+        "51945629753@s.whatsapp.net": true,
+        "51912216018@s.whatsapp.net": true,
+        "59175473839@s.whatsapp.net": true,
+        "593939861795@s.whatsapp.net": true,
+        "5214272245678@s.whatsapp.net": true,
+        "573236197806@s.whatsapp.net": true,
+        "5212294833567@s.whatsapp.net": true,
+        "5217122943378@s.whatsapp.net": true,
+        "51927477824@s.whatsapp.net": true,
+        "573143209190@s.whatsapp.net": true,
+        "584122510806@s.whatsapp.net": true,
+        "50378642043@s.whatsapp.net": true,
+        "50577372233@s.whatsapp.net": true,
+        "59168410927@s.whatsapp.net": true,
+        "5214441605050@s.whatsapp.net": true,
+        "50487938471@s.whatsapp.net": true,
+        "51965123133@s.whatsapp.net": true,
+        "5926440810@s.whatsapp.net": true,
+        "56932758774@s.whatsapp.net": true,
+        "5214281695316@s.whatsapp.net": true,
+        "5218112866697@s.whatsapp.net": true,
+        "5214981317429@s.whatsapp.net": true,
+        "50233288882@s.whatsapp.net": true,
+        "5215512402119@s.whatsapp.net": true,
+        "51903055746@s.whatsapp.net": true,
+        "593963280955@s.whatsapp.net": true,
+        "50557392732@s.whatsapp.net": true,
+        "59167111491@s.whatsapp.net": true,
+        "5212411152644@s.whatsapp.net": true,
+        "56954462299@s.whatsapp.net": true,
+        "593959103787@s.whatsapp.net": true,
+        "5218714162315@s.whatsapp.net": true,
+        "595992638728@s.whatsapp.net": true,
+        "5212382237248@s.whatsapp.net": true,
+        "34603163531@s.whatsapp.net": true,
+        "56940765008@s.whatsapp.net": true,
+        "51918521157@s.whatsapp.net": true,
+        "573105719523@s.whatsapp.net": true,
+        "573125799693@s.whatsapp.net": true,
+        "5215658692996@s.whatsapp.net": true,
+        "56939090328@s.whatsapp.net": true,
+        "5493416578626@s.whatsapp.net": true,
+        "5216648322905@s.whatsapp.net": true,
+        "5212714366075@s.whatsapp.net": true,
+        "5218143787581@s.whatsapp.net": true,
+        "5522998607638@s.whatsapp.net": true,
+        "573115116557@s.whatsapp.net": true,
+        "5215526696150@s.whatsapp.net": true,
+        "593986781005@s.whatsapp.net": true,
+        "5216633809526@s.whatsapp.net": true,
+        "5214422832214@s.whatsapp.net": true,
+        "5215660117211@s.whatsapp.net": true,
+        "584122620530@s.whatsapp.net": true,
+        "34690242398@s.whatsapp.net": true,
+        "5219981453955@s.whatsapp.net": true,
+        "5363621440@s.whatsapp.net": true,
+        "5493625557499@s.whatsapp.net": true,
+        "5493885401112@s.whatsapp.net": true,
+        "56958138244@s.whatsapp.net": true,
+        "51982639246@s.whatsapp.net": true,
+        "5491155870845@s.whatsapp.net": true,
+        "56950299216@s.whatsapp.net": true,
+        "584249212083@s.whatsapp.net": true,
+        "51943555408@s.whatsapp.net": true,
+        "5212202915328@s.whatsapp.net": true,
+        "59164682417@s.whatsapp.net": true,
+        "50672976414@s.whatsapp.net": true,
+        "13464467328@s.whatsapp.net": true,
+        "584121685154@s.whatsapp.net": true,
+        "5217351054904@s.whatsapp.net": true,
+        "573123616922@s.whatsapp.net": true,
+        "5218141812665@s.whatsapp.net": true,
+        "584125169067@s.whatsapp.net": true,
+        "5217711770092@s.whatsapp.net": true,
+        "59178488712@s.whatsapp.net": true,
+        "56950286619@s.whatsapp.net": true,
+        "573232007945@s.whatsapp.net": true,
+        "584169720913@s.whatsapp.net": true,
+        "5491172271577@s.whatsapp.net": true,
+        "50236200515@s.whatsapp.net": true,
+        "5213342064766@s.whatsapp.net": true,
+        "5215530523672@s.whatsapp.net": true,
+        "5213141624665@s.whatsapp.net": true,
+        "573022158757@s.whatsapp.net": true,
+        "5215667637854@s.whatsapp.net": true,
+        "51991443375@s.whatsapp.net": true,
+        "5215658896423@s.whatsapp.net": true,
+        "51932521566@s.whatsapp.net": true,
+        "5216624280647@s.whatsapp.net": true,
+        "5493548595402@s.whatsapp.net": true,
+        "5491127134488@s.whatsapp.net": true,
+        "593990360257@s.whatsapp.net": true,
+        "50588943957@s.whatsapp.net": true,
+        "51948265395@s.whatsapp.net": true,
+        "573150961376@s.whatsapp.net": true,
+        "50257543923@s.whatsapp.net": true,
+        "573023808580@s.whatsapp.net": true,
+        "5216676237577@s.whatsapp.net": true,
+        "5493544614517@s.whatsapp.net": true,
+        "573115918094@s.whatsapp.net": true,
+        "51978005399@s.whatsapp.net": true,
+        "5354128557@s.whatsapp.net": true,
+        "5215530532919@s.whatsapp.net": true,
+        "51930105804@s.whatsapp.net": true,
+        "51917599797@s.whatsapp.net": true,
+        "5215621765904@s.whatsapp.net": true,
+        "5215651643952@s.whatsapp.net": true,
+        "5215539759480@s.whatsapp.net": true,
+        "5212721537221@s.whatsapp.net": true,
+        "573212787853@s.whatsapp.net": true,
+        "34656999732@s.whatsapp.net": true,
+        "5213781003732@s.whatsapp.net": true,
+        "5212431123351@s.whatsapp.net": true,
+        "5493624664671@s.whatsapp.net": true,
+        "5491153376550@s.whatsapp.net": true,
+        "5219361064718@s.whatsapp.net": true,
+        "5492213178108@s.whatsapp.net": true,
+        "59162492977@s.whatsapp.net": true,
+        "5219992649802@s.whatsapp.net": true,
+        "59177403157@s.whatsapp.net": true,
+        "5218971284219@s.whatsapp.net": true,
+        "5216131295912@s.whatsapp.net": true,
+        "12103165975@s.whatsapp.net": true,
+        "5216674585537@s.whatsapp.net": true,
+        "573106553065@s.whatsapp.net": true,
+        "5213171019087@s.whatsapp.net": true,
+        "50494649580@s.whatsapp.net": true,
+        "51907683476@s.whatsapp.net": true,
+        "59173847758@s.whatsapp.net": true,
+        "51920878826@s.whatsapp.net": true,
+        "5216623654832@s.whatsapp.net": true,
+        "50257197851@s.whatsapp.net": true,
+        "5216642400954@s.whatsapp.net": true,
+        "593998275507@s.whatsapp.net": true
+      }
+    },
+    "120363398724938761@g.us": {
+      "antilinks": false,
+      "nsfw": false
+    },
+    "120363400619681053@g.us": {
+      "antilinks": false,
+      "nsfw": false,
+      "members": {
+        "239345692844272@lid": true,
+        "96955212505332@lid": true,
+        "107709223456915@lid": true,
+        "278185115709674@lid": true,
+        "278400182821085@lid": true,
+        "18653613428903@lid": true,
+        "117283259211908@lid": true,
+        "32551758512244@lid": true,
+        "129102656839892@lid": true,
+        "110269174960233@lid": true,
+        "43937834229867@lid": true,
+        "28905247354892@lid": true,
+        "61211890716873@lid": true,
+        "129983141957812@lid": true,
+        "277416517865591@lid": true,
+        "106378286874628@lid": true,
+        "229076459626702@lid": true,
+        "38049266303017@lid": true,
+        "6949307429109@lid": true,
+        "15625745338369@lid": true,
+        "9204433723484@lid": true,
+        "81398773866540@lid": true,
+        "119529040568400@lid": true,
+        "183906288566410@lid": true,
+        "48327441813617@lid": true,
+        "241248682139781@lid": true,
+        "181814622687378@lid": true,
+        "37779086000221@lid": true,
+        "259841562026141@lid": true,
+        "44539247071364@lid": true,
+        "19606693515296@lid": true,
+        "177206257033402@lid": true,
+        "31031390396612@lid": true,
+        "235549495402596@lid": true,
+        "78658098229288@lid": true,
+        "134930910699604@lid": true,
+        "158007904223470@lid": true,
+        "223055251009680@lid": true,
+        "13563640991753@lid": true,
+        "12678777061571@lid": true,
+        "203804939153659@lid": true,
+        "101460096339977@lid": true,
+        "41613971734681@lid": true,
+        "154807952273591@lid": true,
+        "190538003280007@lid": true,
+        "70063935733987@lid": true,
+        "165438013096165@lid": true,
+        "119159690117132@lid": true,
+        "198212908527676@lid": true,
+        "192517781880848@lid": true,
+        "59889191760090@lid": true,
+        "34012450042056@lid": true,
+        "7164492034172@lid": true,
+        "39535375335485@lid": true,
+        "273993277927568@lid": true,
+        "34514793398296@lid": true,
+        "113228357103686@lid": true,
+        "23905888641051@lid": true,
+        "197457380139117@lid": true,
+        "263436533506207@lid": true,
+        "230356812841181@lid": true,
+        "99712027877460@lid": true,
+        "66572043419665@lid": true,
+        "273804416819347@lid": true,
+        "189584335986716@lid": true,
+        "94240323440670@lid": true,
+        "104814885249059@lid": true,
+        "36236706205870@lid": true,
+        "36361511948300@lid": true,
+        "30700745040109@lid": true,
+        "182935558877207@lid": true,
+        "49619891437671@lid": true,
+        "2242325274738@lid": true
+      }
+    },
+    "120363417993747224@g.us": {
+      "antilinks": false,
+      "nsfw": false
+    },
+    "120363294192417505@g.us": {
+      "antilinks": true,
+      "nsfw": false,
+      "members": {
+        "59169916078@s.whatsapp.net": true,
+        "5491176426791@s.whatsapp.net": true,
+        "573189940180@s.whatsapp.net": true,
+        "573122356294@s.whatsapp.net": true,
+        "51973451888@s.whatsapp.net": true,
+        "573053157985@s.whatsapp.net": true,
+        "5218125809793@s.whatsapp.net": true,
+        "59160123608@s.whatsapp.net": true,
+        "573018817918@s.whatsapp.net": true,
+        "5213333995881@s.whatsapp.net": true,
+        "5215544529809@s.whatsapp.net": true,
+        "5219624141827@s.whatsapp.net": true,
+        "5217122726235@s.whatsapp.net": true,
+        "593964053399@s.whatsapp.net": true,
+        "51921705809@s.whatsapp.net": true,
+        "5219721013707@s.whatsapp.net": true,
+        "17723422230@s.whatsapp.net": true,
+        "13473793811@s.whatsapp.net": true,
+        "573115867629@s.whatsapp.net": true,
+        "573105770138@s.whatsapp.net": true,
+        "5493525432920@s.whatsapp.net": true,
+        "5212231263193@s.whatsapp.net": true,
+        "50232941195@s.whatsapp.net": true,
+        "5215665959610@s.whatsapp.net": true,
+        "5216144600316@s.whatsapp.net": true,
+        "15202498837@s.whatsapp.net": true,
+        "593968344466@s.whatsapp.net": true,
+        "50488524358@s.whatsapp.net": true,
+        "51992439938@s.whatsapp.net": true,
+        "573222839020@s.whatsapp.net": true,
+        "5212382359360@s.whatsapp.net": true,
+        "593987462263@s.whatsapp.net": true,
+        "5214521827882@s.whatsapp.net": true,
+        "5216391079229@s.whatsapp.net": true,
+        "5216221201077@s.whatsapp.net": true,
+        "5215578283344@s.whatsapp.net": true,
+        "5218113843480@s.whatsapp.net": true,
+        "593995497036@s.whatsapp.net": true,
+        "5214792239234@s.whatsapp.net": true,
+        "5214871128645@s.whatsapp.net": true,
+        "50244959503@s.whatsapp.net": true,
+        "5213113402675@s.whatsapp.net": true,
+        "5213312435661@s.whatsapp.net": true,
+        "34642796811@s.whatsapp.net": true,
+        "50494738568@s.whatsapp.net": true,
+        "5214142262820@s.whatsapp.net": true,
+        "573025320076@s.whatsapp.net": true,
+        "5218711031025@s.whatsapp.net": true,
+        "5218911105848@s.whatsapp.net": true,
+        "2347055916706@s.whatsapp.net": true,
+        "584161136140@s.whatsapp.net": true,
+        "51928157674@s.whatsapp.net": true,
+        "16184024043@s.whatsapp.net": true,
+        "50239887483@s.whatsapp.net": true,
+        "593988484435@s.whatsapp.net": true,
+        "573224645177@s.whatsapp.net": true,
+        "573052970062@s.whatsapp.net": true,
+        "51968063786@s.whatsapp.net": true,
+        "5217351903571@s.whatsapp.net": true,
+        "5356902686@s.whatsapp.net": true,
+        "5218999846994@s.whatsapp.net": true,
+        "573234811254@s.whatsapp.net": true,
+        "5218135847698@s.whatsapp.net": true,
+        "573502601694@s.whatsapp.net": true,
+        "5215665955835@s.whatsapp.net": true,
+        "51930041530@s.whatsapp.net": true,
+        "50488907635@s.whatsapp.net": true,
+        "573143730724@s.whatsapp.net": true,
+        "59163566918@s.whatsapp.net": true,
+        "5214422025161@s.whatsapp.net": true,
+        "50245172513@s.whatsapp.net": true,
+        "5212741380550@s.whatsapp.net": true,
+        "51931779014@s.whatsapp.net": true,
+        "5215660419878@s.whatsapp.net": true,
+        "5216461506067@s.whatsapp.net": true,
+        "5213224743401@s.whatsapp.net": true,
+        "5218688405676@s.whatsapp.net": true,
+        "5217775880415@s.whatsapp.net": true,
+        "5218180534797@s.whatsapp.net": true,
+        "5218333943707@s.whatsapp.net": true,
+        "5216861668816@s.whatsapp.net": true,
+        "5219931928818@s.whatsapp.net": true,
+        "5492645841265@s.whatsapp.net": true,
+        "50582321841@s.whatsapp.net": true,
+        "5219934693299@s.whatsapp.net": true,
+        "573134658404@s.whatsapp.net": true,
+        "50244777441@s.whatsapp.net": true,
+        "573237405594@s.whatsapp.net": true,
+        "573108855669@s.whatsapp.net": true,
+        "5215561389047@s.whatsapp.net": true,
+        "50577372233@s.whatsapp.net": true,
+        "5215546492424@s.whatsapp.net": true,
+        "5359098589@s.whatsapp.net": true,
+        "573148039471@s.whatsapp.net": true,
+        "5491172153774@s.whatsapp.net": true,
+        "593984461667@s.whatsapp.net": true,
+        "5492954686637@s.whatsapp.net": true,
+        "5214931903863@s.whatsapp.net": true,
+        "5213335037759@s.whatsapp.net": true,
+        "5216622441716@s.whatsapp.net": true,
+        "18299827085@s.whatsapp.net": true,
+        "59899917864@s.whatsapp.net": true,
+        "5491140500799@s.whatsapp.net": true,
+        "593983409436@s.whatsapp.net": true,
+        "5219831064941@s.whatsapp.net": true,
+        "50661904286@s.whatsapp.net": true,
+        "573045581862@s.whatsapp.net": true,
+        "5214777350625@s.whatsapp.net": true,
+        "51987721273@s.whatsapp.net": true,
+        "5216671746549@s.whatsapp.net": true,
+        "5358744773@s.whatsapp.net": true,
+        "50239567076@s.whatsapp.net": true,
+        "5493364073321@s.whatsapp.net": true,
+        "50230067074@s.whatsapp.net": true,
+        "51982218898@s.whatsapp.net": true,
+        "5493834402920@s.whatsapp.net": true,
+        "59164377663@s.whatsapp.net": true,
+        "5213344265250@s.whatsapp.net": true,
+        "5219921171951@s.whatsapp.net": true,
+        "5215536498626@s.whatsapp.net": true,
+        "584122345085@s.whatsapp.net": true,
+        "5217207391248@s.whatsapp.net": true,
+        "5214861219395@s.whatsapp.net": true,
+        "5215512356850@s.whatsapp.net": true,
+        "15073219395@s.whatsapp.net": true,
+        "5216361227877@s.whatsapp.net": true,
+        "573228622673@s.whatsapp.net": true,
+        "5218991251658@s.whatsapp.net": true,
+        "51924536528@s.whatsapp.net": true,
+        "5492615790863@s.whatsapp.net": true,
+        "573144668752@s.whatsapp.net": true,
+        "12066571546@s.whatsapp.net": true,
+        "5218717097300@s.whatsapp.net": true,
+        "51968344712@s.whatsapp.net": true,
+        "51994185831@s.whatsapp.net": true,
+        "5215650613309@s.whatsapp.net": true,
+        "51984397207@s.whatsapp.net": true,
+        "5217471185752@s.whatsapp.net": true,
+        "50258128109@s.whatsapp.net": true,
+        "51994649906@s.whatsapp.net": true,
+        "51954523928@s.whatsapp.net": true,
+        "5219971561578@s.whatsapp.net": true,
+        "5215656692388@s.whatsapp.net": true,
+        "50689817014@s.whatsapp.net": true,
+        "5491131855270@s.whatsapp.net": true,
+        "5215547894428@s.whatsapp.net": true,
+        "212634795020@s.whatsapp.net": true,
+        "51920547743@s.whatsapp.net": true,
+        "5215517973239@s.whatsapp.net": true,
+        "5212313016623@s.whatsapp.net": true,
+        "5215541928002@s.whatsapp.net": true,
+        "5216462400144@s.whatsapp.net": true,
+        "51998156818@s.whatsapp.net": true,
+        "5492236246852@s.whatsapp.net": true,
+        "5215651790714@s.whatsapp.net": true,
+        "51958349589@s.whatsapp.net": true,
+        "5215537739104@s.whatsapp.net": true,
+        "51928008393@s.whatsapp.net": true,
+        "5217411154713@s.whatsapp.net": true,
+        "5492214941053@s.whatsapp.net": true,
+        "5493855928915@s.whatsapp.net": true,
+        "5351775088@s.whatsapp.net": true,
+        "51976203721@s.whatsapp.net": true,
+        "5216564808260@s.whatsapp.net": true,
+        "5213131049402@s.whatsapp.net": true,
+        "584127411791@s.whatsapp.net": true,
+        "33679889891@s.whatsapp.net": true,
+        "51906659884@s.whatsapp.net": true,
+        "51976344030@s.whatsapp.net": true,
+        "5214445399954@s.whatsapp.net": true,
+        "522211290223@s.whatsapp.net": true,
+        "5355988464@s.whatsapp.net": true,
+        "50663059144@s.whatsapp.net": true,
+        "50489056941@s.whatsapp.net": true,
+        "5216677049109@s.whatsapp.net": true,
+        "2349077166340@s.whatsapp.net": true,
+        "573147064358@s.whatsapp.net": true,
+        "5218110513315@s.whatsapp.net": true,
+        "5219321102329@s.whatsapp.net": true,
+        "5212321386507@s.whatsapp.net": true,
+        "2347041539867@s.whatsapp.net": true,
+        "50255838307@s.whatsapp.net": true,
+        "5215578344200@s.whatsapp.net": true,
+        "50235902533@s.whatsapp.net": true,
+        "51928325213@s.whatsapp.net": true,
+        "5217773387201@s.whatsapp.net": true,
+        "5350591811@s.whatsapp.net": true,
+        "5213322564650@s.whatsapp.net": true,
+        "5217445032749@s.whatsapp.net": true,
+        "50372375044@s.whatsapp.net": true,
+        "584248123760@s.whatsapp.net": true,
+        "50489705112@s.whatsapp.net": true,
+        "5492475406161@s.whatsapp.net": true,
+        "50493653804@s.whatsapp.net": true,
+        "2349070103936@s.whatsapp.net": true,
+        "5212381544661@s.whatsapp.net": true,
+        "573228466994@s.whatsapp.net": true,
+        "5215635235281@s.whatsapp.net": true,
+        "5215568109908@s.whatsapp.net": true,
+        "5219828220784@s.whatsapp.net": true,
+        "16465156240@s.whatsapp.net": true,
+        "5215648291420@s.whatsapp.net": true,
+        "5217443200031@s.whatsapp.net": true,
+        "5219851034636@s.whatsapp.net": true,
+        "595982139547@s.whatsapp.net": true,
+        "2348023969010@s.whatsapp.net": true,
+        "5217226808936@s.whatsapp.net": true,
+        "5219831838792@s.whatsapp.net": true,
+        "2349128383170@s.whatsapp.net": true,
+        "5218115089836@s.whatsapp.net": true,
+        "50376886616@s.whatsapp.net": true,
+        "5216568510082@s.whatsapp.net": true,
+        "5216871829663@s.whatsapp.net": true,
+        "5215629109817@s.whatsapp.net": true,
+        "5217641324454@s.whatsapp.net": true,
+        "5215651963697@s.whatsapp.net": true,
+        "5213316006360@s.whatsapp.net": true,
+        "5212226290178@s.whatsapp.net": true,
+        "5219513163763@s.whatsapp.net": true,
+        "5215648730105@s.whatsapp.net": true,
+        "50764401287@s.whatsapp.net": true,
+        "5214111542752@s.whatsapp.net": true,
+        "51974402640@s.whatsapp.net": true,
+        "5214831184567@s.whatsapp.net": true,
+        "51927458832@s.whatsapp.net": true,
+        "5215554964906@s.whatsapp.net": true,
+        "5216331446806@s.whatsapp.net": true,
+        "51929301582@s.whatsapp.net": true,
+        "573233650722@s.whatsapp.net": true,
+        "5218999132725@s.whatsapp.net": true,
+        "573238081482@s.whatsapp.net": true,
+        "5213317427286@s.whatsapp.net": true,
+        "5492213046488@s.whatsapp.net": true,
+        "573019411801@s.whatsapp.net": true,
+        "16129986366@s.whatsapp.net": true,
+        "5219711604737@s.whatsapp.net": true,
+        "5492974436482@s.whatsapp.net": true,
+        "13136334033@s.whatsapp.net": true,
+        "5214471050832@s.whatsapp.net": true,
+        "51939568531@s.whatsapp.net": true,
+        "5215553348179@s.whatsapp.net": true,
+        "5491127275775@s.whatsapp.net": true,
+        "51918450780@s.whatsapp.net": true,
+        "5216242170747@s.whatsapp.net": true,
+        "15592101538@s.whatsapp.net": true,
+        "5492926407158@s.whatsapp.net": true,
+        "5219162773848@s.whatsapp.net": true,
+        "595976411207@s.whatsapp.net": true,
+        "50370087672@s.whatsapp.net": true,
+        "5214931082132@s.whatsapp.net": true,
+        "595983008603@s.whatsapp.net": true,
+        "593967634752@s.whatsapp.net": true,
+        "5491176186684@s.whatsapp.net": true,
+        "50374978206@s.whatsapp.net": true,
+        "50238688127@s.whatsapp.net": true,
+        "5219624609256@s.whatsapp.net": true,
+        "5212382366138@s.whatsapp.net": true,
+        "5212712066361@s.whatsapp.net": true,
+        "5219617603232@s.whatsapp.net": true,
+        "50584448669@s.whatsapp.net": true,
+        "59173744712@s.whatsapp.net": true,
+        "5213329399109@s.whatsapp.net": true,
+        "34614445736@s.whatsapp.net": true,
+        "5493873505232@s.whatsapp.net": true,
+        "213667140717@s.whatsapp.net": true,
+        "51904686696@s.whatsapp.net": true,
+        "5491127275665@s.whatsapp.net": true,
+        "56992648438@s.whatsapp.net": true,
+        "50768284204@s.whatsapp.net": true,
+        "5218721181649@s.whatsapp.net": true,
+        "5217121052696@s.whatsapp.net": true,
+        "18494085592@s.whatsapp.net": true,
+        "51900756814@s.whatsapp.net": true,
+        "573044468896@s.whatsapp.net": true,
+        "51926822605@s.whatsapp.net": true,
+        "51932146183@s.whatsapp.net": true,
+        "59173178963@s.whatsapp.net": true,
+        "50671496527@s.whatsapp.net": true,
+        "5217701063162@s.whatsapp.net": true,
+        "5491138499948@s.whatsapp.net": true,
+        "5491132027256@s.whatsapp.net": true,
+        "5219831542236@s.whatsapp.net": true,
+        "5213312085728@s.whatsapp.net": true,
+        "56972247251@s.whatsapp.net": true,
+        "50373374461@s.whatsapp.net": true,
+        "5491168404260@s.whatsapp.net": true,
+        "51900420599@s.whatsapp.net": true,
+        "573244561874@s.whatsapp.net": true,
+        "15169066376@s.whatsapp.net": true,
+        "50253091764@s.whatsapp.net": true,
+        "5215512163026@s.whatsapp.net": true,
+        "5219511091999@s.whatsapp.net": true,
+        "5216611257658@s.whatsapp.net": true,
+        "584128506809@s.whatsapp.net": true,
+        "51974652605@s.whatsapp.net": true,
+        "5214931103973@s.whatsapp.net": true,
+        "5492901558963@s.whatsapp.net": true,
+        "5216161297307@s.whatsapp.net": true,
+        "5216251030667@s.whatsapp.net": true,
+        "5491136568081@s.whatsapp.net": true,
+        "13138082859@s.whatsapp.net": true,
+        "5216321242629@s.whatsapp.net": true,
+        "573207276703@s.whatsapp.net": true,
+        "5215535066833@s.whatsapp.net": true,
+        "50256309961@s.whatsapp.net": true,
+        "584142206959@s.whatsapp.net": true,
+        "51926586097@s.whatsapp.net": true,
+        "5493765199749@s.whatsapp.net": true,
+        "5213344042661@s.whatsapp.net": true,
+        "16179107360@s.whatsapp.net": true,
+        "5214444517064@s.whatsapp.net": true,
+        "5214771544664@s.whatsapp.net": true,
+        "573227813467@s.whatsapp.net": true,
+        "5213231219794@s.whatsapp.net": true,
+        "51907523441@s.whatsapp.net": true,
+        "573158139540@s.whatsapp.net": true,
+        "5353373235@s.whatsapp.net": true,
+        "51931215237@s.whatsapp.net": true,
+        "50670409085@s.whatsapp.net": true,
+        "51942757106@s.whatsapp.net": true,
+        "5219619319303@s.whatsapp.net": true,
+        "5212203229022@s.whatsapp.net": true,
+        "5216243588373@s.whatsapp.net": true,
+        "51982606587@s.whatsapp.net": true,
+        "19733931847@s.whatsapp.net": true,
+        "5215647599255@s.whatsapp.net": true,
+        "2349157440333@s.whatsapp.net": true,
+        "5218344905482@s.whatsapp.net": true,
+        "573209076909@s.whatsapp.net": true,
+        "34655708363@s.whatsapp.net": true,
+        "5215621872011@s.whatsapp.net": true,
+        "50588410160@s.whatsapp.net": true,
+        "584126093329@s.whatsapp.net": true,
+        "573243698355@s.whatsapp.net": true,
+        "5216863936106@s.whatsapp.net": true,
+        "5218441765043@s.whatsapp.net": true,
+        "5219602442295@s.whatsapp.net": true,
+        "51967509759@s.whatsapp.net": true,
+        "573506287356@s.whatsapp.net": true,
+        "5219932463906@s.whatsapp.net": true,
+        "5216751119228@s.whatsapp.net": true,
+        "584124451748@s.whatsapp.net": true,
+        "573236487453@s.whatsapp.net": true,
+        "573233233066@s.whatsapp.net": true,
+        "5493436211305@s.whatsapp.net": true,
+        "5217299292507@s.whatsapp.net": true,
+        "5213328241176@s.whatsapp.net": true,
+        "593990189604@s.whatsapp.net": true,
+        "51992042132@s.whatsapp.net": true,
+        "5216151131567@s.whatsapp.net": true,
+        "212779336618@s.whatsapp.net": true,
+        "19364054772@s.whatsapp.net": true,
+        "51928178905@s.whatsapp.net": true,
+        "5492984203447@s.whatsapp.net": true,
+        "5213951148679@s.whatsapp.net": true,
+        "5213231302053@s.whatsapp.net": true,
+        "50363088685@s.whatsapp.net": true,
+        "584163396838@s.whatsapp.net": true,
+        "5216624234379@s.whatsapp.net": true,
+        "5219172883604@s.whatsapp.net": true,
+        "5212213690577@s.whatsapp.net": true,
+        "51916435379@s.whatsapp.net": true,
+        "5219831111664@s.whatsapp.net": true,
+        "573224251564@s.whatsapp.net": true,
+        "5215627135296@s.whatsapp.net": true,
+        "5219617113737@s.whatsapp.net": true,
+        "573007850008@s.whatsapp.net": true,
+        "639469541267@s.whatsapp.net": true,
+        "5214151155163@s.whatsapp.net": true,
+        "573245316062@s.whatsapp.net": true,
+        "573023596286@s.whatsapp.net": true,
+        "5215588010049@s.whatsapp.net": true,
+        "5493834215143@s.whatsapp.net": true,
+        "5363287596@s.whatsapp.net": true,
+        "5218361166106@s.whatsapp.net": true,
+        "50660917607@s.whatsapp.net": true,
+        "5219671304823@s.whatsapp.net": true,
+        "5491176186691@s.whatsapp.net": true,
+        "50558204199@s.whatsapp.net": true,
+        "5218126802904@s.whatsapp.net": true,
+        "50689748342@s.whatsapp.net": true,
+        "5216644872914@s.whatsapp.net": true,
+        "5213346475476@s.whatsapp.net": true,
+        "5214794144355@s.whatsapp.net": true,
+        "5218681686428@s.whatsapp.net": true,
+        "5491127275757@s.whatsapp.net": true,
+        "584124484479@s.whatsapp.net": true,
+        "593968349470@s.whatsapp.net": true,
+        "5218712399231@s.whatsapp.net": true,
+        "5212722266507@s.whatsapp.net": true,
+        "5492233403803@s.whatsapp.net": true,
+        "5217291138323@s.whatsapp.net": true,
+        "584262054107@s.whatsapp.net": true,
+        "51922678434@s.whatsapp.net": true,
+        "639307503129@s.whatsapp.net": true,
+        "573114495927@s.whatsapp.net": true,
+        "50237371197@s.whatsapp.net": true,
+        "5212225280118@s.whatsapp.net": true,
+        "573103536913@s.whatsapp.net": true,
+        "5491176186688@s.whatsapp.net": true,
+        "573001208672@s.whatsapp.net": true,
+        "212625526857@s.whatsapp.net": true,
+        "5491167225313@s.whatsapp.net": true,
+        "5219995769163@s.whatsapp.net": true,
+        "5214521773358@s.whatsapp.net": true,
+        "584244435881@s.whatsapp.net": true,
+        "5219841085675@s.whatsapp.net": true,
+        "573144840686@s.whatsapp.net": true,
+        "2348131024726@s.whatsapp.net": true,
+        "14376554327@s.whatsapp.net": true,
+        "5217681044731@s.whatsapp.net": true,
+        "573127223304@s.whatsapp.net": true,
+        "573174486085@s.whatsapp.net": true,
+        "59174920015@s.whatsapp.net": true,
+        "5219987693932@s.whatsapp.net": true,
+        "5217561158358@s.whatsapp.net": true,
+        "51925480245@s.whatsapp.net": true,
+        "593987996576@s.whatsapp.net": true,
+        "5493735603651@s.whatsapp.net": true,
+        "573137469977@s.whatsapp.net": true,
+        "5219181045661@s.whatsapp.net": true,
+        "573134780379@s.whatsapp.net": true,
+        "5214442393224@s.whatsapp.net": true,
+        "573165103632@s.whatsapp.net": true,
+        "50498079818@s.whatsapp.net": true,
+        "5491140646314@s.whatsapp.net": true,
+        "5214251272741@s.whatsapp.net": true,
+        "15022159314@s.whatsapp.net": true,
+        "5492665271286@s.whatsapp.net": true,
+        "5218126847371@s.whatsapp.net": true,
+        "50241944117@s.whatsapp.net": true,
+        "5219811856442@s.whatsapp.net": true,
+        "5215652637135@s.whatsapp.net": true,
+        "51986100652@s.whatsapp.net": true,
+        "5218461055372@s.whatsapp.net": true
+      }
+    },
+    "120363400357677929@g.us": {
+      "antilinks": false,
+      "nsfw": false
+    },
+    "120363400363837088@g.us": {
+      "antilinks": false,
+      "nsfw": false
+    },
+    "120363200659906074@g.us": {
+      "antilinks": false,
+      "nsfw": false
+    }
+  },
+  "chats": {
+    "120363400749080938@g.us": {
+      "modo": "silencio"
+    },
+    "120363400619681053@g.us": {
+      "modo": "silencio"
+    },
+    "120363216137525596@g.us": {
+      "modo": "silencio"
+    }
+  }
+}

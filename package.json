@@ -1,0 +1,46 @@
+{
+  "name": "venus-bot",
+  "version": "1.0.0",
+  "description": "Hecho por DanixlJs",
+  "repository": {
+    "url": "https://github.com/DanixlJs",
+    "type": "GIT"
+  },
+  "main": "./src/index.mjs",
+  "scripts": {
+    "start": "node ./src/venus.mjs"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "node",
+    "nodejs"
+  ],
+  "author": "DanixlJs",
+  "license": "MIT",
+  "dependencies": {
+    "@cacheable/node-cache": "1.5.2",
+    "@hapi/boom": "10.0.1",
+    "@whiskeysockets/baileys": "6.7.17",
+    "abot-scraper": "^1.3.0",
+    "axios": "1.7.9",
+    "cfonts": "3.3.0",
+    "cheerio": "^1.1.0",
+    "file-type": "20.0.0",
+    "fluent-ffmpeg": "2.1.3",
+    "googlethis": "^1.8.0",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "libsignal": "^2.0.1",
+    "lowdb": "7.0.1",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "3.2.0",
+    "npm": "^11.4.1",
+    "picocolors": "1.1.1",
+    "pino": "9.6.0",
+    "qrcode-terminal": "0.12.0",
+    "yt-search": "^2.13.1",
+    "ytdl-core": "^4.11.5"
+  }
+}

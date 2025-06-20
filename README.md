@@ -25,21 +25,21 @@
 ## ⚙️ Funcionalidades Destacadas
 
 🎉 **Diversión**
-- `!chiste` – Cuenta chistes aleatorios.
-- `!frase` – Frases motivacionales o reflexivas.
-- `!stickermeme` – Convierte imágenes en stickers con texto.
+- `/hug [@usuario]` – Menciona a un usuario para abrazarlo.
+- `/frase` – Frases motivacionales o reflexivas.
+- `/sticker` – Convierte imágenes en stickers.
 
 🎵 **Música y Descargas**
-- `!ytmp3 [link]` – Descarga audio de YouTube.
-- `!ytmp4 [link]` – Descarga videos de YouTube.
-- `!spotify [link]` – Convierte enlaces de Spotify (requiere configuración adicional).
+- `/play [query]` – Descarga audio de YouTube.
+- `/play2 [query]` – Descarga videos de YouTube.
+- `/spotify [link]` – Convierte enlaces de Spotify (requiere configuración adicional).
 
 🛠️ **Herramientas de Administración**
-- `!welcome on/off` – Activar o desactivar mensajes de bienvenida.
-- `!ban [@usuario]` – Eliminar miembros del grupo.
-- `!grupo abrir/cerrar` – Controla permisos del grupo.
+- `/welcome on/off` – Activar o desactivar mensajes de bienvenida.
+- `/kick [@usuario]` – Eliminar miembros del grupo.
+- `/open & /close` – Controla permisos del grupo.
 
-🧠 **Utilidades Extras**
+🧠 **Utilidades Extras[PROXIMAMENTE]**
 - `!qr [texto]` – Genera un código QR.
 - `!traducir [texto]` – Traduce al español.
 - `!clima [ciudad]` – Consulta el clima actual.

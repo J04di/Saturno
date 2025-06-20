@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tuusuario/saturno/main/banner.png" alt="Saturno Bot Banner" />
+  <img src="./banner.png" alt="Banner de Saturno Bot" />
 </p>
 
 <h1 align="center">Saturno Bot</h1>
@@ -37,7 +37,7 @@
 - `/spotify [enlace]` — Convierte enlaces de Spotify (requiere configuración adicional).
 
 ### 🛠️ Administración
-- `/welcome on/off` — Activar o desactivar mensajes de bienvenida.
+- `/welcome on/off` — Activa o desactiva los mensajes de bienvenida.
 - `/kick [@usuario]` — Elimina usuarios del grupo.
 - `/open` / `/close` — Controla los permisos del grupo.
 
@@ -52,8 +52,8 @@
 ## 🚀 Tecnologías
 
 - **Lenguaje:** Node.js  
-- **Base:** WhatsApp Web API (como Baileys o equivalente)  
-- **Almacenamiento:** JSON. 
+- **Base:** WhatsApp Web API (como Baileys)  
+- **Base de datos:** JSON. 
 - **Despliegue:** Manual o en VPS / Heroku
 
 ---

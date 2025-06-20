@@ -1,6 +1,8 @@
-<h1 align="center">
-  🪐 Saturno Bot
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tuusuario/saturno/main/banner.png" alt="Saturno Bot Banner" />
+</p>
+
+<h1 align="center">Saturno Bot</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -18,41 +20,40 @@
 
 **Saturno** es un bot de WhatsApp diseñado para mejorar la experiencia en tus grupos y chats. Ofrece una gran variedad de funciones útiles, comandos interactivos y utilidades que simplifican la gestión de grupos.
 
-> Todo lo que necesitas, en la palma de tu mano… y en tu WhatsApp.
+> ✨ Todo lo que necesitas, en la palma de tu mano… y en tu WhatsApp.
 
 ---
 
 ## ⚙️ Funcionalidades Destacadas
 
-🎉 **Diversión**
-- `/hug [@usuario]` – Menciona a un usuario para abrazarlo.
-- `/frase` – Frases motivacionales o reflexivas.
-- `/sticker` – Convierte imágenes en stickers.
+### 🎉 Diversión
+- `/hug [@usuario]` — Menciona a un usuario para abrazarlo.
+- `/frase` — Frases motivacionales o reflexivas.
+- `/sticker` — Convierte imágenes en stickers.
 
-🎵 **Música y Descargas**
-- `/play [query]` – Descarga audio de YouTube.
-- `/play2 [query]` – Descarga videos de YouTube.
-- `/spotify [link]` – Convierte enlaces de Spotify (requiere configuración adicional).
+### 🎵 Música y Descargas
+- `/play [consulta]` — Descarga audio de YouTube.
+- `/play2 [consulta]` — Descarga videos de YouTube.
+- `/spotify [enlace]` — Convierte enlaces de Spotify (requiere configuración adicional).
 
-🛠️ **Herramientas de Administración**
-- `/welcome on/off` – Activar o desactivar mensajes de bienvenida.
-- `/kick [@usuario]` – Eliminar miembros del grupo.
-- `/open & /close` – Controla permisos del grupo.
+### 🛠️ Administración
+- `/welcome on/off` — Activar o desactivar mensajes de bienvenida.
+- `/kick [@usuario]` — Elimina usuarios del grupo.
+- `/open` / `/close` — Controla los permisos del grupo.
 
-🧠 **Utilidades Extras[PROXIMAMENTE]**
-- `!qr [texto]` – Genera un código QR.
-- `!traducir [texto]` – Traduce al español.
-- `!clima [ciudad]` – Consulta el clima actual.
-- `!ping` – Mide el tiempo de respuesta del bot.
+### 🧠 Utilidades Extras *(Próximamente)*
+- `/qr [texto]` — Genera un código QR.
+- `/traducir [texto]` — Traducción al español.
+- `/clima [ciudad]` — Consulta del clima.
+- `/ping` — Mide el tiempo de respuesta del bot.
 
 ---
 
-## 🚀 Instalación Rápida
+## 🚀 Tecnologías
 
-> Requiere Node.js v16+ y WhatsApp Web Session
+- **Lenguaje:** Node.js  
+- **Base:** WhatsApp Web API (como Baileys o equivalente)  
+- **Almacenamiento:** JSON. 
+- **Despliegue:** Manual o en VPS / Heroku
 
-```bash
-git clone https://github.com/tuusuario/saturno.git
-cd saturno
-npm install
-npm start
+---

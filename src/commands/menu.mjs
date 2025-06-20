@@ -6,9 +6,9 @@ export default {
 ╭━━━〔 *✨ Saturno-Bot 🪐 v1.0.0 ✨* 〕━━━╮
 
 👋 Hola *@${m.sender.split("@")[0]}*, bienvenid@ al menú.
-Disfruta de todas las funciones que ofrece el bot.
+Explora las funciones estelares de Saturno.
 
-📦 *Caja de Comandos:* 26 disponibles
+📦 *Comandos disponibles:* 26
 
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 
@@ -20,24 +20,25 @@ Disfruta de todas las funciones que ofrece el bot.
 │🖼️ ${usedPrefix}s / ${usedPrefix}sticker
 │    Crea sticker de imagen o video
 │🤗 ${usedPrefix}hug
-│    Abraza a una persona
+│    Abraza a alguien
 │💋 ${usedPrefix}kiss
-│    Besa a una persona
+│    Besa a alguien
 │👊 ${usedPrefix}punch
-│    Pega a alguien
+│    Golpea a alguien
 │🔫 ${usedPrefix}kill
-│    Elimina a un usuario ficticiamente
+│    Elimina ficticiamente a un usuario
 │💃 ${usedPrefix}dance
-│    Baila sol@ o con alguien
+│    Baila solo o con alguien
 │📝 ${usedPrefix}presentar
-│    Preséntate en el grupo con estilo
+│    Preséntate con estilo
 │🎁 ${usedPrefix}rewards
-│    Reclama tus recompensas cada 4 horas
+│    Reclama recompensas cada 4 horas
 │🎰 ${usedPrefix}ruleta
 │    Juega a la ruleta con premios y riesgos
-│🪙 ${usedPrefix}bet o ${usedPrefix}apostar
+│🪙 ${usedPrefix}bet / ${usedPrefix}apostar
 │    Apuesta tus puntos en un duelo
-│🎼 ${usedPrefix}Buscar Canciones de YouTube y descargar.
+│🎼 ${usedPrefix}play
+│    Busca y descarga canciones
 ╰──────────────────────╯
 
 ╭─〔 🛡️ *Menú Administración* 〕─╮
@@ -49,9 +50,8 @@ Disfruta de todas las funciones que ofrece el bot.
 │    Abre o cierra el grupo
 │🔔 ${usedPrefix}tagall / ${usedPrefix}invocar
 │    Menciona a todos
-│⚙️ ${usedPrefix}on / ${usedPrefix}enable
-│⚙️ ${usedPrefix}off / ${usedPrefix}disable
-│    Activa o desactiva funciones del grupo
+│⚙️ ${usedPrefix}on / ${usedPrefix}off
+│    Activa o desactiva funciones
 │📊 ${usedPrefix}points
 │    Ranking de puntos
 │➕ ${usedPrefix}addpoints
@@ -59,10 +59,10 @@ Disfruta de todas las funciones que ofrece el bot.
 │⚠️ ${usedPrefix}warn
 │    Advierte a un miembro
 │😴 ${usedPrefix}inactivos
-│    Muestra a los usuarios inactivos del grupo
+│    Muestra usuarios inactivos
 ╰──────────────────────╯
 
-🔧 *Creado por Kogi 🌟*
+🔧 *Creado por Kogi 🌟*  
 `.trim();
 
     await venus.sendMessage(
